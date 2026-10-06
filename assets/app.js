@@ -152,10 +152,13 @@
     try {
       const blocs = [];
       for (const [titre, q] of requetes) {
-        const r = await fetch(`https://api.github.com/search/repositories?q=${encodeURIComponent(q)}&sort=stars&order=desc&per_page=5`);
+        const r = await fetch(`https://api.github.com/search/repositories?q=${encodeURIComponent(q)}&sort=stars&order=desc&per_page=12`);
         if (!r.ok) throw new Error(r.status === 403 ? "limite de requêtes GitHub atteinte, réessayez dans une minute" : "erreur " + r.status);
         const d = await r.json();
-        blocs.push(`<div><p class="etiq">${esc(titre)}</p><ul class="puces">${d.items.map((x) => carteDepot([x.full_name, x.stargazers_count, x.language, (x.pushed_at || "").slice(0, 10), x.description])).join("")}</ul></div>`);
+        // on écarte les outils de cassage de mots de passe, de contournement ou de triche, et les simples listes de cours
+        const exclus = /crack|bypass|cheat|exploit|turnstile|course|interview|awesome/i;
+        const items = d.items.filter((x) => !exclus.test(x.full_name + " " + (x.description || ""))).slice(0, 5);
+        blocs.push(`<div><p class="etiq">${esc(titre)}</p><ul class="puces">${items.map((x) => carteDepot([x.full_name, x.stargazers_count, x.language, (x.pushed_at || "").slice(0, 10), x.description])).join("")}</ul></div>`);
       }
       $("#github-grille").innerHTML = blocs.join("");
       etat.textContent = "Données en direct de l'API GitHub, " + new Date().toLocaleString("fr-FR") + ".";
