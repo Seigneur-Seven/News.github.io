@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=PT+Sans+Narrow:wght@400;700&family=PT+Serif:ital,wght@0,400;0,700;1,400&family=UnifrakturMaguntia&display=swap">
+<link rel="stylesheet" href="assets/style.css">
+<title>Archives de Seven News</title>
+</head>
+<body>
+<div class="page">
+<header class="manchette">
+  <div class="bandeau"><span id="bandeau-numero">Seven News</span><span id="bandeau-date">Paris</span><span id="bandeau-pdf">Prix : 0 franc</span></div>
+  <div class="titre-zone">
+    <div class="oreille g">« Les faits d'abord,<br>l'opinion ensuite. »</div>
+    <h1><a href="./" style="color:inherit;text-decoration:none">Seven News</a></h1>
+    <div class="oreille d">Tirage spécial<br>pour M. Simon</div>
+  </div>
+  <div class="sommaire" id="sommaire">Culture · Stages · Mots · Tech · GitHub · Information · Sénat · Cergy</div>
+</header>
+
+<nav class="nav" aria-label="Navigation"><a href="./">Dernière édition</a><a href="archives.html" aria-current="page">Archives</a><a href="api.html">API</a></nav>
+<main>
+<section class="rubrique">
+  <div class="bande"><h2>Les archives</h2><small>historique et suivi de lecture</small></div>
+  <div class="stats" aria-label="Ton suivi de lecture">
+    <div><b id="stat-editions">0</b><span>éditions lues en entier</span></div>
+    <div><b id="stat-articles">0</b><span>rubriques lues</span></div>
+    <div><b id="stat-serie">0</b><span>jours de lecture d'affilée</span></div>
+    <div><b id="stat-mots">0</b><span>mots appris</span></div>
+  </div>
+  <div class="filtres">
+    <input id="filtre-texte" type="search" placeholder="Chercher un titre ou une date (2026-10)…" aria-label="Chercher dans les archives">
+    <select id="filtre-statut" aria-label="Statut de lecture"><option value="">Toutes les éditions</option><option value="nonlu">Non lues</option><option value="encours">En cours</option><option value="lu">Lues</option></select>
+  </div>
+  <ul class="archives" id="liste"><li><span></span><span class="chargement">Chargement des archives…</span><span></span></li></ul>
+  <div class="boite" style="margin-top:20px">
+    <p class="etiq encre">Ton suivi de lecture</p>
+    <p style="margin:0 0 8px">Il est enregistré dans ce navigateur. Pour le retrouver sur un autre appareil, copie ta sauvegarde puis restaure-la là-bas.</p>
+    <p style="display:flex;gap:8px;flex-wrap:wrap;margin:0"><button class="btn" id="sauvegarder">Copier ma sauvegarde</button><button class="btn" id="restaurer">Restaurer</button></p>
+    <p id="msg-sauvegarde" style="font-family:var(--f-etiq);font-size:.9rem;color:var(--gris)"></p>
+    <textarea id="zone-sauvegarde" hidden rows="5" style="width:100%;font-family:monospace;font-size:.8rem;background:var(--papier);color:var(--encre);border:1px solid var(--encre)" aria-label="Sauvegarde du suivi de lecture"></textarea>
+  </div>
+</section>
+</main>
+<footer class="pied"><span>Seven News · archives</span><span><a href="./">Dernière édition</a> · <a href="api.html">API</a></span></footer>
+</div>
+<script src="assets/lecture.js"></script>
+<script src="assets/archives.js"></script>
+</body>
+</html>

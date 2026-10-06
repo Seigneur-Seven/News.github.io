@@ -1,0 +1,2409 @@
+{
+ "date": "2026-10-06",
+ "numero": 1,
+ "culture": {
+  "citation": {
+   "texte": "Dans les champs de l'observation, le hasard ne favorise que les esprits préparés.",
+   "auteur": "Louis Pasteur, Lille, 1854"
+  },
+  "blocs": [
+   {
+    "rubrique": "Ce jour-là",
+    "titre": "6 octobre 1889 : le Moulin Rouge ouvre",
+    "points": [
+     "Cabaret inauguré au pied de Montmartre, à Paris.",
+     "Le french cancan y devient célèbre ; Toulouse-Lautrec en peint les affiches."
+    ]
+   },
+   {
+    "rubrique": "Ce jour-là",
+    "titre": "6 octobre 1927 : le cinéma se met à parler",
+    "points": [
+     "Sortie du « Chanteur de jazz » à New York.",
+     "Premier long métrage avec dialogues synchronisés : la fin du muet commence."
+    ]
+   },
+   {
+    "rubrique": "Ce jour-là",
+    "titre": "6 octobre 1973 : guerre du Kippour",
+    "points": [
+     "L'Égypte et la Syrie attaquent Israël le jour de Yom Kippour.",
+     "Conséquence directe : le premier choc pétrolier."
+    ]
+   },
+   {
+    "rubrique": "Électronique",
+    "titre": "1947 : le transistor",
+    "points": [
+     "Inventé aux Bell Labs par Bardeen, Brattain et Shockley.",
+     "Prix Nobel de physique 1956. Une puce moderne en compte des dizaines de milliards."
+    ]
+   },
+   {
+    "rubrique": "Géographie",
+    "titre": "Le lac Baïkal, record mondial",
+    "points": [
+     "Lac le plus profond du monde : 1 642 m.",
+     "Il contient environ 20 % de l'eau douce liquide de surface de la planète."
+    ]
+   },
+   {
+    "rubrique": "Art",
+    "titre": "Le vol de la Joconde",
+    "points": [
+     "Volée au Louvre en 1911 par Vincenzo Peruggia, un vitrier.",
+     "Retrouvée à Florence en 1913 : le vol l'a rendue mondialement célèbre."
+    ]
+   },
+   {
+    "rubrique": "Sciences",
+    "titre": "La lumière a 8 minutes de retard",
+    "points": [
+     "La lumière du Soleil met environ 8 min 20 s pour nous atteindre.",
+     "On voit donc toujours le Soleil tel qu'il était il y a 8 minutes."
+    ]
+   },
+   {
+    "rubrique": "Mots",
+    "titre": "« Salaire » et le sel",
+    "points": [
+     "Du latin salarium, dérivé de sal, le sel.",
+     "L'idée d'une solde versée en sel aux soldats romains reste une légende débattue."
+    ]
+   }
+  ]
+ },
+ "mots": [
+  {
+   "mot": "Abscons",
+   "nature": "adj.",
+   "registre": "soutenu",
+   "definition": "Difficile à comprendre, obscur.",
+   "exemple": "Un mode d'emploi abscons."
+  },
+  {
+   "mot": "Atermoyer",
+   "nature": "verbe",
+   "registre": "soutenu",
+   "definition": "Retarder une décision, chercher des délais.",
+   "exemple": "Cesse d'atermoyer et envoie ta candidature."
+  },
+  {
+   "mot": "Pusillanime",
+   "nature": "adj.",
+   "registre": "soutenu",
+   "definition": "Qui manque de courage et d'audace.",
+   "exemple": "Une réponse pusillanime face au problème."
+  },
+  {
+   "mot": "Thuriféraire",
+   "nature": "nom m.",
+   "registre": "soutenu",
+   "definition": "Flatteur, admirateur zélé de quelqu'un.",
+   "exemple": "Les thuriféraires du patron applaudissent tout."
+  },
+  {
+   "mot": "Prolixe",
+   "nature": "adj.",
+   "registre": "soutenu",
+   "definition": "Trop long, trop bavard.",
+   "exemple": "Un rapport prolixe de 80 pages."
+  },
+  {
+   "mot": "Velléitaire",
+   "nature": "adj.",
+   "registre": "soutenu",
+   "definition": "Qui a des intentions mais ne passe jamais à l'acte.",
+   "exemple": "Un sportif velléitaire."
+  },
+  {
+   "mot": "Obséquieux",
+   "nature": "adj.",
+   "registre": "soutenu",
+   "definition": "Poli et empressé à l'excès, servile.",
+   "exemple": "Un serveur obséquieux."
+  },
+  {
+   "mot": "Diatribe",
+   "nature": "nom f.",
+   "registre": "soutenu",
+   "definition": "Critique violente et souvent injurieuse.",
+   "exemple": "Une diatribe contre la réforme."
+  },
+  {
+   "mot": "Sinécure",
+   "nature": "nom f.",
+   "registre": "soutenu",
+   "definition": "Poste payé qui demande très peu de travail.",
+   "exemple": "Ce stage n'est pas une sinécure."
+  },
+  {
+   "mot": "Palinodie",
+   "nature": "nom f.",
+   "registre": "soutenu",
+   "definition": "Changement brusque et complet d'opinion.",
+   "exemple": "Les palinodies d'un ministre."
+  },
+  {
+   "mot": "Acrimonie",
+   "nature": "nom f.",
+   "registre": "soutenu",
+   "definition": "Aigreur, mauvaise humeur mordante.",
+   "exemple": "Répondre avec acrimonie."
+  },
+  {
+   "mot": "Pérorer",
+   "nature": "verbe",
+   "registre": "soutenu",
+   "definition": "Discourir longuement et avec prétention.",
+   "exemple": "Il pérore à chaque réunion."
+  },
+  {
+   "mot": "Inextricable",
+   "nature": "adj.",
+   "registre": "soutenu",
+   "definition": "Impossible à démêler ou à résoudre.",
+   "exemple": "Une situation inextricable."
+  },
+  {
+   "mot": "Sycophante",
+   "nature": "nom m.",
+   "registre": "soutenu",
+   "definition": "Délateur, mouchard ; aussi flatteur hypocrite.",
+   "exemple": "Méfie-toi de ce sycophante."
+  },
+  {
+   "mot": "Sans vergogne",
+   "nature": "loc.",
+   "registre": "soutenu",
+   "definition": "Sans honte, sans scrupule.",
+   "exemple": "Il copie sans vergogne."
+  },
+  {
+   "mot": "Daron, daronne",
+   "nature": "nom",
+   "registre": "argot",
+   "definition": "Père, mère.",
+   "exemple": "Je dîne chez mes darons."
+  },
+  {
+   "mot": "Thune",
+   "nature": "nom f.",
+   "registre": "argot",
+   "definition": "Argent.",
+   "exemple": "Ce stage rapporte de la thune."
+  },
+  {
+   "mot": "Taf",
+   "nature": "nom m.",
+   "registre": "argot",
+   "definition": "Travail.",
+   "exemple": "Je sors du taf à 18h."
+  },
+  {
+   "mot": "Avoir le seum",
+   "nature": "loc.",
+   "registre": "argot",
+   "definition": "Être dégoûté, frustré (de l'arabe sèmm, venin).",
+   "exemple": "J'ai le seum, recalé au dernier entretien."
+  },
+  {
+   "mot": "Chelou",
+   "nature": "adj.",
+   "registre": "argot",
+   "definition": "Bizarre, louche (verlan de louche).",
+   "exemple": "Une offre un peu chelou."
+  },
+  {
+   "mot": "Gamberger",
+   "nature": "verbe",
+   "registre": "argot",
+   "definition": "Réfléchir, se faire du souci.",
+   "exemple": "Arrête de gamberger, postule."
+  },
+  {
+   "mot": "Se faire carotter",
+   "nature": "loc.",
+   "registre": "argot",
+   "definition": "Se faire avoir, escroquer.",
+   "exemple": "Il s'est fait carotter sur le loyer."
+  },
+  {
+   "mot": "Pécho",
+   "nature": "verbe",
+   "registre": "argot",
+   "definition": "Attraper ; séduire (verlan de choper).",
+   "exemple": "J'ai pécho le dernier billet."
+  },
+  {
+   "mot": "Bader",
+   "nature": "verbe",
+   "registre": "argot",
+   "definition": "Déprimer, être triste ou angoissé.",
+   "exemple": "Il bade depuis son partiel."
+  },
+  {
+   "mot": "Kiffer",
+   "nature": "verbe",
+   "registre": "argot",
+   "definition": "Aimer, apprécier (de l'arabe kif).",
+   "exemple": "Je kiffe l'électronique."
+  }
+ ],
+ "tech": [
+  {
+   "titre": "Des publicités dans ChatGPT",
+   "points": [
+    "OpenAI affiche des publicités visuelles à côté des images générées.",
+    "Les annonces sont signalées et séparées de l'image produite.",
+    "ChatGPT revendique 1,2 milliard d'utilisateurs par semaine."
+   ],
+   "sources": [
+    [
+     "TechCrunch, 5 oct.",
+     "https://techcrunch.com/2026/10/05/openai-launches-visual-ads-that-appear-alongside-image-generation-results/"
+    ],
+    [
+     "BleepingComputer",
+     "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-will-show-visual-ads-in-chatgpt-while-you-generate-images/"
+    ]
+   ]
+  },
+  {
+   "titre": "Californie : amendes pour les robotaxis",
+   "points": [
+    "Loi SB 1246 signée par le gouverneur Gavin Newsom.",
+    "Jusqu'à 10 000 $ si un véhicule sans chauffeur bloque les secours plus de 30 minutes.",
+    "Entrée en vigueur : juillet 2028."
+   ],
+   "sources": [
+    [
+     "Engadget",
+     "https://www.engadget.com/2276543/california-fine-robotaxi-companies-vehicles-block-first-responders/"
+    ],
+    [
+     "TechCrunch (relayé)",
+     "https://ua.news/en/technologies/u-kaliforniyi-pidpisali-zakon-zi-shtrafami-dlia-operatoriv-robotaksi-techcrunch"
+    ]
+   ]
+  },
+  {
+   "titre": "L'IA chinoise rattrape son retard",
+   "points": [
+    "DeepSeek V4.1 Flash (sorti le 10 sept.) obtient 81,1 sur le banc LiveBench.",
+    "Écart avec le meilleur modèle américain mesuré : environ 3 %, contre 15 % début 2026."
+   ],
+   "sources": [
+    [
+     "Bloomberg, relayé par AI Weekly",
+     "https://aiweekly.co/ai-news-today/edition/2026-10-05"
+    ]
+   ]
+  },
+  {
+   "titre": "Un modèle de 125 milliards de paramètres sur un PC de joueur",
+   "points": [
+    "Le moteur libre Strata fait tourner Qwen3.8-Flash-Next sur une carte graphique de 12 Go avec 32 Go de RAM.",
+    "Environ 100 à 140 jetons par seconde sur une RTX 3090."
+   ],
+   "sources": [
+    [
+     "GitHub, relayé par AI Weekly",
+     "https://aiweekly.co/ai-news-today/edition/2026-10-05"
+    ]
+   ]
+  },
+  {
+   "titre": "Groq attaqué par d'anciens ingénieurs",
+   "points": [
+    "Plainte contre le conseil d'administration à propos de l'accord de 20 milliards de dollars avec Nvidia.",
+    "Ils estiment que les actionnaires ordinaires ont été lésés. Une enquête du ministère américain de la Justice est ouverte depuis septembre."
+   ],
+   "sources": [
+    [
+     "Financial Times, relayé par AI Weekly",
+     "https://aiweekly.co/ai-news-today/edition/2026-10-05"
+    ]
+   ]
+  }
+ ],
+ "infos": [
+  {
+   "theme": "Société",
+   "titre": "Lycées bloqués : la jeunesse descend dans la rue",
+   "chapeau": "Journée nationale de mobilisation des lycéens et des étudiants ce mardi 6 octobre, après deux semaines de blocages et de violences.",
+   "contexte": [
+    "Le mouvement est né en Île-de-France fin septembre, contre le manque de professeurs et de personnels.",
+    "Il s'est étendu à tout le pays et percute le débat sur le budget 2027, à sept mois de la présidentielle."
+   ],
+   "faits": [
+    [
+     "Revendications : professeurs non remplacés, manque d'infirmiers et de surveillants, classes surchargées, stress lié à Parcoursup.",
+     [
+      1,
+      2
+     ]
+    ],
+    [
+     "6 octobre, « acte III » : défilés de plusieurs milliers de lycéens à Marseille, Nantes, Lyon ; 20 000 à 40 000 personnes attendues à Paris.",
+     [
+      7
+     ]
+    ],
+    [
+     "Depuis le 28 septembre : 6 059 interpellations ; plus de 5 000 personnes, surtout des mineurs, placées en garde à vue.",
+     [
+      7
+     ]
+    ],
+    [
+     "215 élèves blessés selon Matignon ; plus de 700 policiers et près de 100 personnels de l'Éducation blessés.",
+     [
+      7
+     ]
+    ],
+    [
+     "Blessures graves rapportées : un lycéen de 16 ans a perdu l'usage d'un œil à Tours, un jeune de 15 ans a perdu une main à Lens. 10 enquêtes internes à la police sont ouvertes.",
+     [
+      7
+     ]
+    ],
+    [
+     "2 octobre : 564 lycées perturbés à la mi-journée, sur environ 3 700.",
+     [
+      2
+     ]
+    ],
+    [
+     "Plus de 100 établissements gravement dégradés ; 7 millions d'euros de dégâts en Île-de-France.",
+     [
+      2
+     ]
+    ],
+    [
+     "Le ministre Édouard Geffray ouvre une plateforme de consultation ; le gouvernement prépare une loi « casseurs-payeurs » examinée au Sénat le 27 octobre.",
+     [
+      1,
+      7
+     ]
+    ]
+   ],
+   "chiffres": [
+    [
+     "6 059",
+     "interpellations depuis le 28 septembre",
+     [
+      7
+     ]
+    ],
+    [
+     "215",
+     "élèves blessés selon Matignon",
+     [
+      7
+     ]
+    ],
+    [
+     "7 M€",
+     "de dégâts en Île-de-France",
+     [
+      2
+     ]
+    ]
+   ],
+   "chronologie": [
+    [
+     "28 sept.",
+     "Début du décompte des interpellations"
+    ],
+    [
+     "1er oct.",
+     "Cellule de crise à Matignon"
+    ],
+    [
+     "2 oct.",
+     "564 lycées perturbés ; Darmanin vise les parents"
+    ],
+    [
+     "6 oct.",
+     "Acte III : journée nationale"
+    ],
+    [
+     "27 oct.",
+     "Loi « casseurs-payeurs » au Sénat"
+    ]
+   ],
+   "gauche": {
+    "qui": "LFI, PCF",
+    "arguments": [
+     "Les revendications sont légitimes : le mouvement part du manque de moyens, pas d'un parti (Manuel Bompard, LFI, dénonce le « complotisme » du gouvernement).",
+     "La réponse policière est disproportionnée ; Éric Coquerel (LFI) compare le mouvement aux grandes mobilisations de 1986 et de 2006.",
+     "Solutions proposées : supprimer Parcoursup, augmenter le budget de l'Éducation, autoriser les assemblées générales dans les lycées.",
+     "Le groupe communiste du Sénat juge que « les revendications de notre jeunesse sont légitimes »."
+    ],
+    "citation": [
+     "Aucune société ne peut se fâcher avec sa jeunesse.",
+     "Jean-Luc Mélenchon, devant les étudiants d'HEC",
+     [
+      4
+     ]
+    ]
+   },
+   "droite": {
+    "qui": "LR, Horizons, ministres",
+    "arguments": [
+     "Le mouvement serait instrumentalisé : Édouard Philippe (Horizons) dénonce « une minorité politisée manipulée par LFI ».",
+     "Bruno Retailleau (LR) propose d'interdire LFI, qu'il juge « fascinée par la violence ».",
+     "Responsabiliser les familles : Gérald Darmanin demande que les parents paient les réparations, sanction « bien plus utile que la prison ».",
+     "Le ministre de l'Intérieur, Laurent Nuñez, condamne une « violence débridée »."
+    ],
+    "citation": [
+     "Les parents doivent avoir leur responsabilité de parents.",
+     "Gérald Darmanin, ministre de la Justice",
+     [
+      3
+     ]
+    ]
+   },
+   "zoom": {
+    "titre": "Faut-il supprimer Parcoursup ?",
+    "points": [
+     "Max Brisson (LR) propose de l'abandonner pour laisser chaque université fixer ses critères.",
+     "Pierre Ouzoulias (PCF) répond que c'est impossible tant que la demande dépasse les places ; il veut anonymiser le lycée d'origine des candidats."
+    ],
+    "refs": [
+     5
+    ]
+   },
+   "incertain": [
+    "Le nombre total de manifestants du 6 octobre : aucun bilan officiel au bouclage.",
+    "Les circonstances des blessures graves de Tours et de Lens : enquêtes en cours ; le gouvernement conteste certaines descriptions de l'action policière."
+   ],
+   "verification": [
+    [
+     "Chiffres des blocages, interpellations et blessés",
+     "Public Sénat, d'après les ministères de l'Éducation et de l'Intérieur",
+     [
+      1,
+      2
+     ]
+    ],
+    [
+     "Propos de Darmanin, Bompard et Mélenchon",
+     "Concordants entre trois articles de Public Sénat",
+     [
+      2,
+      3,
+      4
+     ]
+    ],
+    [
+     "Bilan humain et interpellations au 6 octobre",
+     "Public Sénat, d'après Matignon ; à recouper avec le bilan officiel du ministère de l'Intérieur",
+     [
+      7
+     ]
+    ]
+   ],
+   "sources": [
+    [
+     "Public Sénat, 1er oct. : cellule de crise à Matignon",
+     "https://www.publicsenat.fr/actualites/education/blocus-lyceen-sebastien-lecornu-convoque-une-cellule-de-crise-a-13-heures"
+    ],
+    [
+     "Public Sénat, 2 oct. : 564 établissements perturbés",
+     "https://www.publicsenat.fr/actualites/politique/blocus-lyceens-564-etablissements-perturbes-le-gouvernement-cherche-une-sortie-de-crise"
+    ],
+    [
+     "Public Sénat, 2 oct. : Darmanin et les parents",
+     "https://www.publicsenat.fr/actualites/politique/les-parents-doivent-prendre-leur-responsabilite-darmanin-souhaite-que-les-parents-payent-pour-les-degradations-des-lycees"
+    ],
+    [
+     "Public Sénat : Mélenchon devant HEC",
+     "https://www.publicsenat.fr/actualites/politique/aucune-societe-ne-peut-se-facher-avec-sa-jeunesse-devant-les-etudiants-dhec-jean-luc-melenchon-apporte-son-soutien-au-mouvement-lyceen"
+    ],
+    [
+     "Public Sénat, 5 oct. : faut-il supprimer Parcoursup ?",
+     "https://www.publicsenat.fr/actualites/education/algorithmes-discriminatoires-systeme-opaque-et-hypocrite-faut-il-supprimer-parcoursup"
+    ],
+    [
+     "Public Sénat, 5 oct. : Éric Coquerel",
+     "https://www.publicsenat.fr/actualites/politique/blocage-des-lycees-la-reponse-a-la-mobilisation-lyceenne-ne-peut-pas-etre-uniquement-la-repression-martele-eric-coquerel"
+    ],
+    [
+     "Public Sénat, 6 oct. : acte III de la mobilisation",
+     "https://www.publicsenat.fr/actualites/politique/acte-iii-de-la-mobilisation-lyceenne-le-point-sur-les-premieres-manifestations-sous-tres-haute-surveillance"
+    ]
+   ]
+  },
+  {
+   "theme": "Économie",
+   "titre": "Budget 2027 : 43 milliards d'effort et une dette record",
+   "chapeau": "Le projet de loi de finances arrive à l'Assemblée. Les débats s'ouvrent dans un climat de taux d'intérêt au plus haut.",
+   "contexte": [
+    "Le gouvernement Lecornu a présenté son budget en Conseil des ministres le 1er octobre.",
+    "Le texte doit être voté avant le 31 décembre ; le ministre des Relations avec le Parlement n'exclut pas le 49-3."
+   ],
+   "faits": [
+    [
+     "Déficit public visé : 5,0 % du PIB en 2027, après 5,4 % en 2026.",
+     [
+      1,
+      2
+     ]
+    ],
+    [
+     "Effort de 43 Md€ de mesures nouvelles (54 Md€ avec les mesures déjà votées) ; 60 % portent sur les dépenses.",
+     [
+      1,
+      2
+     ]
+    ],
+    [
+     "Retraites au-dessus de 1 260 € par mois gelées : 4,1 Md€ d'économies, 1,4 million de retraités concernés.",
+     [
+      2
+     ]
+    ],
+    [
+     "Point d'indice des fonctionnaires gelé ; 1 076 postes supprimés dans la fonction publique d'État, hors défense.",
+     [
+      2
+     ]
+    ],
+    [
+     "Collectivités locales : 5,5 Md€ d'économies demandées.",
+     [
+      2
+     ]
+    ],
+    [
+     "Surtaxe sur les grandes entreprises maintenue mais réduite de 30 % (5 Md€) ; taxe sur les concessions d'autoroutes et d'aéroports doublée (1,4 Md€).",
+     [
+      2
+     ]
+    ],
+    [
+     "Barème de l'impôt sur le revenu indexé sur l'inflation ; petites retraites, RSA, AAH et minimum vieillesse préservés.",
+     [
+      1
+     ]
+    ],
+    [
+     "Défense : + 6,4 Md€. Croissance prévue : 1 %.",
+     [
+      1
+     ]
+    ]
+   ],
+   "chiffres": [
+    [
+     "5,0 %",
+     "déficit visé en 2027 (% du PIB)",
+     [
+      1
+     ]
+    ],
+    [
+     "121,7 %",
+     "dette publique prévue fin 2027 (% du PIB)",
+     [
+      2
+     ]
+    ],
+    [
+     "~4,8 %",
+     "taux d'emprunt de l'État à 10 ans le 30 sept., au plus haut depuis 2008",
+     [
+      4
+     ]
+    ]
+   ],
+   "chronologie": [
+    [
+     "1er oct.",
+     "Présentation en Conseil des ministres"
+    ],
+    [
+     "Oct.-nov.",
+     "Examen à l'Assemblée puis au Sénat"
+    ],
+    [
+     "31 déc.",
+     "Date limite d'adoption"
+    ],
+    [
+     "Avril 2027",
+     "Élection présidentielle (prévue)"
+    ]
+   ],
+   "gauche": {
+    "qui": "PS, LFI, Écologistes",
+    "arguments": [
+     "Un budget injuste : les efforts pèsent sur les retraités, les fonctionnaires et les ménages, pas sur les plus riches.",
+     "Un budget « récessif » qui freinerait la croissance (LFI).",
+     "Le PS dénonce une « provocation » et « aucune main tendue » ; les Écologistes promettent la censure d'un texte « insupportable ».",
+     "Les collectivités jugent leur effort de 5,4 Md€ « disproportionné »."
+    ],
+    "citation": [
+     "À part les ultrariches, je vous mets au défi de trouver une personne dont la contribution n'augmentera pas l'année prochaine.",
+     "Éric Coquerel (LFI), président de la commission des finances",
+     [
+      3
+     ]
+    ]
+   },
+   "droite": {
+    "qui": "LR, centristes, RN, patronat",
+    "arguments": [
+     "Pas de hausse d'impôts : Gérard Larcher, président LR du Sénat, refuse « une hausse de la fiscalité ».",
+     "L'effort sur les dépenses serait insuffisant : le rapporteur LR Jean-François Husson veut faire mieux que 5 % de déficit et « réduire la dépense ».",
+     "Les entreprises seraient trop taxées : le Medef chiffre les prélèvements à près de 20 Md€.",
+     "Le RN juge le budget « consternant »."
+    ],
+    "citation": [
+     "Affaiblir encore les entreprises, c'est affaiblir le pays.",
+     "Medef, réaction au projet de budget",
+     [
+      3
+     ]
+    ]
+   },
+   "zoom": {
+    "titre": "La charge de la dette s'envole",
+    "points": [
+     "La dette atteint 119 % du PIB au 2e trimestre 2026, un record depuis 1946.",
+     "Un économiste cité par Public Sénat prévoit une charge de la dette à 4 points de PIB d'ici 2030, « du jamais vu depuis l'entre-deux-guerres »."
+    ],
+    "refs": [
+     4
+    ]
+   },
+   "incertain": [
+    "Charge de la dette en 2027 : 72,9 Md€ selon le projet de budget, mais 91 Md€ selon une autre projection citée par Public Sénat. L'écart tient au périmètre retenu, non précisé.",
+    "Le recours au 49-3 : le gouvernement le dit conditionné à « la qualité des débats »."
+   ],
+   "verification": [
+    [
+     "Déficit, effort de 43/54 Md€, retraites à 1 260 €",
+     "Compte rendu officiel du Conseil des ministres et Public Sénat concordent",
+     [
+      1,
+      2
+     ]
+    ],
+    [
+     "Réactions des partis et du Medef",
+     "Dépêche AFP du 1er octobre",
+     [
+      3
+     ]
+    ],
+    [
+     "Positions des sénateurs LR et centristes",
+     "Public Sénat, 4 septembre (avant la présentation du texte)",
+     [
+      5
+     ]
+    ]
+   ],
+   "sources": [
+    [
+     "Gouvernement : compte rendu du Conseil des ministres du 1er oct.",
+     "https://www.info.gouv.fr/conseil-des-ministres/compte-rendu-du-conseil-des-ministres-du-01-10-2026"
+    ],
+    [
+     "Public Sénat : le gouvernement lève le voile sur le budget 2027",
+     "https://www.publicsenat.fr/actualites/economie/impots-retraites-mesures-deconomies-le-gouvernement-leve-le-voile-sur-le-budget-2027-qui-prevoit-un-effort-de-43-milliards-deuros"
+    ],
+    [
+     "AFP, reprise par L'essentiel : avalanche de critiques",
+     "https://www.lessentiel.lu/fr/story/france-provocation-insupportable-le-budget-2027-deja-critique-103642655"
+    ],
+    [
+     "Public Sénat : le coût de la dette",
+     "https://www.publicsenat.fr/actualites/politique/ce-sera-du-jamais-vu-depuis-lentre-deux-guerres-le-cout-annuel-de-notre-dette-continue-sa-remontee-menacant-dasphyxier-nos-capacites-daction"
+    ],
+    [
+     "Public Sénat : l'inquiétude de la majorité sénatoriale",
+     "https://www.publicsenat.fr/actualites/politique/on-est-deja-dans-le-vide-sans-parachute-la-grande-inquietude-de-la-majorite-senatoriale-sur-le-budget-2027"
+    ]
+   ]
+  },
+  {
+   "theme": "International",
+   "titre": "Brésil : Flávio Bolsonaro devance Lula",
+   "chapeau": "Contre les sondages, le fils de l'ancien président arrive en tête du premier tour. Second tour le 25 octobre.",
+   "contexte": [
+    "Lula, 80 ans, président de 2003 à 2010 puis depuis 2023, briguait un nouveau mandat.",
+    "Flávio Bolsonaro, sénateur de Rio, est le fils aîné de l'ex-président d'extrême droite Jair Bolsonaro."
+   ],
+   "faits": [
+    [
+     "Résultats du 4 octobre (99,8 % dépouillés) : Flávio Bolsonaro 47,06 % (56 millions de voix), Lula 45,12 % (53,7 millions).",
+     [
+      1
+     ]
+    ],
+    [
+     "Les autres candidats totalisent près de 8 %, surtout au centre droit.",
+     [
+      2
+     ]
+    ],
+    [
+     "Environ 30 millions d'abstentionnistes, soit 21 % des inscrits.",
+     [
+      2
+     ]
+    ],
+    [
+     "Les sondages des 21-24 septembre donnaient Lula en tête : 45,1 % contre 40,6 %.",
+     [
+      3
+     ]
+    ],
+    [
+     "Programme de Lula : hausse du salaire minimum, semaine de 40 heures, services publics, transition écologique.",
+     [
+      3
+     ]
+    ],
+    [
+     "Programme de Bolsonaro : baisse des dépenses, prisons de haute sécurité, « valeurs chrétiennes », restrictions sur l'avortement.",
+     [
+      3
+     ]
+    ],
+    [
+     "Depuis 1989, aucun candidat arrivé deuxième au premier tour n'a remporté la présidentielle.",
+     [
+      2
+     ]
+    ]
+   ],
+   "chiffres": [
+    [
+     "47,06 %",
+     "Flávio Bolsonaro au 1er tour",
+     [
+      1
+     ]
+    ],
+    [
+     "45,12 %",
+     "Lula au 1er tour",
+     [
+      1
+     ]
+    ],
+    [
+     "21 %",
+     "d'abstention",
+     [
+      2
+     ]
+    ]
+   ],
+   "chronologie": [
+    [
+     "4 oct.",
+     "Premier tour"
+    ],
+    [
+     "5 oct.",
+     "Lula annonce « une nouvelle campagne »"
+    ],
+    [
+     "25 oct.",
+     "Second tour"
+    ]
+   ],
+   "gauche": {
+    "qui": "Lula, Parti des travailleurs",
+    "arguments": [
+     "Défendre le bilan social : salaire minimum, programmes d'aide, investissements publics.",
+     "Attaquer les démêlés judiciaires de son adversaire.",
+     "Mobiliser les électeurs progressistes, majoritaires selon une étude du Grand Continent (51 %)."
+    ],
+    "citation": [
+     "Je suis très bon en phase à élimination directe. Nous verrons qui a le meilleur projet.",
+     "Lula, au soir du premier tour",
+     [
+      1
+     ]
+    ]
+   },
+   "droite": {
+    "qui": "Flávio Bolsonaro, Parti libéral",
+    "arguments": [
+     "Le pays veut tourner la page : il célèbre « la fin de l'ère du Parti des travailleurs ».",
+     "Priorité à la sécurité : prisons de haute sécurité, fermeté pénale.",
+     "Libéralisme économique : réduire la dépense publique ; conservatisme moral."
+    ],
+    "citation": [
+     "Le Brésil veut du changement, c'est la lecture de ce qui s'est passé aujourd'hui.",
+     "Flávio Bolsonaro, au soir du premier tour",
+     [
+      1
+     ]
+    ]
+   },
+   "zoom": {
+    "titre": "Un pays coupé en deux",
+    "points": [
+     "Selon le Grand Continent, 74 % des clivages tiennent à un seul axe de valeurs : mœurs, autorité, sécurité, redistribution.",
+     "Les femmes penchent à gauche ; les évangéliques et les plus âgés à droite."
+    ],
+    "refs": [
+     3
+    ]
+   },
+   "incertain": [
+    "Les reports de voix des candidats éliminés, surtout centristes.",
+    "La fiabilité des sondages, qui ont sous-estimé Bolsonaro au premier tour."
+   ],
+   "verification": [
+    [
+     "Pourcentages et date du second tour",
+     "Identiques chez Euronews, Al Jazeera et dans la dépêche AFP reprise par Boursorama",
+     [
+      1,
+      2,
+      4
+     ]
+    ],
+    [
+     "Citations des deux candidats",
+     "Euronews et Al Jazeera",
+     [
+      1,
+      2
+     ]
+    ]
+   ],
+   "sources": [
+    [
+     "Euronews, 5 oct. : résultats du premier tour",
+     "https://fr.euronews.com/2026/10/05/presidentielle-au-bresil-flavio-bolsonaro-47-devance-lula-45-au-premier-tour"
+    ],
+    [
+     "Al Jazeera, 5 oct. : ce que dit le premier tour",
+     "https://www.aljazeera.com/news/2026/10/5/bolsonaro-favourite-to-win-what-brazils-first-round-of-election-tells-us"
+    ],
+    [
+     "Le Grand Continent, 3 oct. : un Brésil divisé en deux",
+     "https://legrandcontinent.eu/fr/2026/10/03/lula-et-bolsonaro-le-bresil-est-nettement-divise-en-deux/"
+    ],
+    [
+     "AFP, reprise par Boursorama",
+     "https://www.boursorama.com/actualite-economique/actualites/flavio-bolsonaro-cree-la-surprise-en-devancant-lula-le-bresil-ira-au-second-tour-4815a8866865b0432c04cd09e75ce117"
+    ]
+   ]
+  },
+  {
+   "theme": "Écologie",
+   "titre": "Climat : des dégâts déjà « verrouillés »",
+   "chapeau": "Plus de 70 scientifiques publient ce 6 octobre leurs « 10 nouveaux constats » sur le climat, à l'approche de la COP31.",
+   "contexte": [
+    "Le rapport annuel « 10 New Insights in Climate Science » réunit Future Earth, The Earth League et le Programme mondial de recherche sur le climat.",
+    "En France, l'été 2026 a été le plus chaud jamais mesuré."
+   ],
+   "faits": [
+    [
+     "Auteurs : plus de 70 scientifiques de près de 30 pays.",
+     [
+      1
+     ]
+    ],
+    [
+     "Août 2026 : température moyenne de surface des océans de 21,1 °C, un record.",
+     [
+      1
+     ]
+    ],
+    [
+     "Dans l'UE, les produits animaux causent 81 à 86 % des émissions liées à l'alimentation, pour 32 % des calories.",
+     [
+      1
+     ]
+    ],
+    [
+     "100 g de bœuf = 15,5 kg de CO₂ équivalent, comme 78,7 km en voiture.",
+     [
+      1
+     ]
+    ],
+    [
+     "Le coût social du carbone serait jusqu'à quatre fois plus élevé qu'estimé jusqu'ici.",
+     [
+      1
+     ]
+    ],
+    [
+     "D'ici 2030, une personne sur deux pourrait manquer gravement d'eau, selon l'ONU.",
+     [
+      1
+     ]
+    ],
+    [
+     "France, été 2026 : 24,0 °C de moyenne, + 3,6 °C par rapport à la normale ; 53 jours de canicule.",
+     [
+      2
+     ]
+    ]
+   ],
+   "chiffres": [
+    [
+     "21,1 °C",
+     "océans en août 2026, record",
+     [
+      1
+     ]
+    ],
+    [
+     "×4",
+     "coût social du carbone réévalué",
+     [
+      1
+     ]
+    ],
+    [
+     "+3,6 °C",
+     "été 2026 en France par rapport à la normale",
+     [
+      2
+     ]
+    ]
+   ],
+   "chronologie": [
+    [
+     "3 sept.",
+     "Météo-France : l'été 2026 est le plus chaud jamais mesuré"
+    ],
+    [
+     "6 oct.",
+     "Publication des « 10 nouveaux constats »"
+    ],
+    [
+     "Nov. 2026",
+     "COP31"
+    ]
+   ],
+   "gauche": {
+    "qui": "Les Écologistes, PS",
+    "arguments": [
+     "Remettre le climat au centre de la présidentielle 2027 (Marine Tondelier).",
+     "Adapter le droit du travail aux canicules : proposition d'un « congé climatique ».",
+     "Le PS mise sur les énergies renouvelables comme levier de souveraineté européenne."
+    ],
+    "citation": [
+     "Parfois, on a peut-être été trop catastrophistes.",
+     "Thomas Dossus, sénateur écologiste",
+     [
+      3
+     ]
+    ]
+   },
+   "droite": {
+    "qui": "LR, RN",
+    "arguments": [
+     "LR défend une « écologie de droite » : nucléaire, décarbonation et compétitivité (100 propositions du député Antoine Vermorel-Marques).",
+     "Bruno Retailleau a prévu un grand rendez-vous sur l'écologie cet automne.",
+     "Le RN met l'accent sur l'adaptation et propose un grand plan de climatisation."
+    ],
+    "citation": null
+   },
+   "zoom": {
+    "titre": "Ce que ça change dans l'assiette",
+    "points": [
+     "Le rapport cible l'alimentation : le secteur agroalimentaire pèse un tiers des émissions mondiales.",
+     "Réduire la viande rouge est l'un des leviers les plus rapides selon les auteurs."
+    ],
+    "refs": [
+     1
+    ]
+   },
+   "incertain": [
+    "Les positions des partis datent de mai 2026 (Public Sénat) et de l'été (franceinfo) ; aucune réaction au rapport du jour n'était publiée au bouclage.",
+    "Le chiffre « une personne sur deux d'ici 2030 » est une projection de l'ONU reprise par le rapport."
+   ],
+   "verification": [
+    [
+     "Constats et chiffres du rapport",
+     "Euronews, édition du 6 octobre",
+     [
+      1
+     ]
+    ],
+    [
+     "Bilan de l'été en France",
+     "Bilan officiel de Météo-France",
+     [
+      2
+     ]
+    ],
+    [
+     "Positions des partis",
+     "Public Sénat et franceinfo",
+     [
+      3,
+      4
+     ]
+    ]
+   ],
+   "sources": [
+    [
+     "Euronews, 6 oct. : les 10 constats du rapport",
+     "https://fr.euronews.com/2026/10/06/des-degats-climatiques-deja-actes-mais-10-pistes-dessinent-encore-notre-avenir"
+    ],
+    [
+     "Météo-France : bilan climatique de l'été 2026",
+     "https://meteofrance.com/presse/bilan-climatique-de-lete-2026-juin-juillet-aout"
+    ],
+    [
+     "Public Sénat, 28 mai : l'écologie et la présidentielle",
+     "https://www.publicsenat.fr/actualites/politique/disparue-des-radars-lecologie-fera-t-elle-son-retour-pour-la-presidentielle-de-2027"
+    ],
+    [
+     "franceinfo : le RN et la climatisation",
+     "https://www.franceinfo.fr/replay-radio/le-brief-politique/canicule-le-rassemblement-national-branche-la-clim-et-tente-de-verdir-son-discours_8058437.html"
+    ]
+   ]
+  },
+  {
+   "theme": "Sciences",
+   "titre": "Nobel de physique : le chasseur de neutrinos",
+   "chapeau": "Le Belge Francis Halzen est récompensé ce 6 octobre pour IceCube, un télescope enfoui sous la glace du pôle Sud.",
+   "contexte": [
+    "Les neutrinos sont des particules presque sans masse, qui traversent la matière sans s'arrêter : on les surnomme « particules fantômes ».",
+    "La veille, le Nobel de médecine a couronné l'optogénétique."
+   ],
+   "faits": [
+    [
+     "Lauréat unique : Francis Halzen, né en 1944 à Tirlemont (Belgique), docteur de l'UCLouvain, professeur à l'université du Wisconsin à Madison.",
+     [
+      1,
+      3
+     ]
+    ],
+    [
+     "Motif : la détection de neutrinos cosmiques de haute énergie grâce à l'observatoire IceCube, au pôle Sud.",
+     [
+      2
+     ]
+    ],
+    [
+     "IceCube : un kilomètre cube de glace instrumenté, jusqu'à environ 2,4 km de profondeur ; chantier de 2005 à 2010.",
+     [
+      3
+     ]
+    ],
+    [
+     "2013 : première observation nette de neutrinos de haute énergie venus de l'extérieur de la Voie lactée.",
+     [
+      3
+     ]
+    ],
+    [
+     "Ces neutrinos sont environ 100 fois plus énergétiques que les particules du LHC.",
+     [
+      3
+     ]
+    ],
+    [
+     "Dotation : 12 millions de couronnes suédoises (environ 1,2 million de dollars) ; remise le 10 décembre à Stockholm.",
+     [
+      2
+     ]
+    ]
+   ],
+   "chiffres": [
+    [
+     "1 km³",
+     "de glace instrumentée",
+     [
+      3
+     ]
+    ],
+    [
+     "2013",
+     "1re détection nette de neutrinos cosmiques",
+     [
+      3
+     ]
+    ],
+    [
+     "12 M SEK",
+     "montant du prix",
+     [
+      2
+     ]
+    ]
+   ],
+   "chronologie": [
+    [
+     "2005",
+     "Début de la construction d'IceCube"
+    ],
+    [
+     "2010",
+     "Détecteur achevé"
+    ],
+    [
+     "2013",
+     "Découverte des neutrinos cosmiques de haute énergie"
+    ],
+    [
+     "6 oct. 2026",
+     "Prix Nobel"
+    ]
+   ],
+   "gauche_titre": "Pourquoi c'est important",
+   "droite_titre": "Ce qui reste ouvert",
+   "gauche": {
+    "qui": "Une nouvelle astronomie",
+    "arguments": [
+     "Les neutrinos apportent des informations que la lumière ne peut pas transporter.",
+     "Ils permettent d'observer des phénomènes cosmiques très violents, loin de notre galaxie."
+    ],
+    "citation": null
+   },
+   "droite": {
+    "qui": "Les limites",
+    "arguments": [
+     "La citation complète du comité Nobel n'était pas encore publiée par la presse au bouclage.",
+     "IceCube est une collaboration internationale : le prix ne distingue qu'un seul chercheur."
+    ],
+    "citation": null
+   },
+   "zoom": null,
+   "incertain": [
+    "Le texte officiel complet de la motivation du prix : à vérifier sur nobelprize.org."
+   ],
+   "verification": [
+    [
+     "Lauréat, nationalité, date",
+     "Dépêche AFP reprise par la DH et Physics World concordent",
+     [
+      1,
+      2
+     ]
+    ],
+    [
+     "Données sur IceCube",
+     "Fiche biographique (Wikipédia) ; à confirmer par la presse",
+     [
+      3
+     ]
+    ]
+   ],
+   "sources": [
+    [
+     "AFP, reprise par la DH (Belgique), 6 oct.",
+     "https://www.dhnet.be/actu/monde/2026/10/06/le-prix-nobel-de-physique-a-ete-decerne-au-belge-francis-halzen-ZAYBUQI2OFB55DS3IMW3BEKWJU/"
+    ],
+    [
+     "Physics World, 6 oct.",
+     "https://physicsworld.com/a/francis-halzen-wins-nobel-prize-in-physics/"
+    ],
+    [
+     "Wikipédia : Francis Halzen",
+     "https://en.wikipedia.org/wiki/Francis_Halzen"
+    ]
+   ]
+  }
+ ],
+ "senat": {
+  "titre": "Cette semaine au Sénat",
+  "chapeau": "Nouvelle assemblée après les sénatoriales du 27 septembre : le Sénat a élu son président et réparti ses postes clés avant le marathon budgétaire.",
+  "composition": [
+   [
+    "Les Républicains",
+    124
+   ],
+   [
+    "Union centriste",
+    63
+   ],
+   [
+    "Socialistes",
+    62
+   ],
+   [
+    "RDSE",
+    18
+   ],
+   [
+    "Communistes",
+    18
+   ],
+   [
+    "RDPI (macronistes)",
+    16
+   ],
+   [
+    "RN-UDR",
+    15
+   ],
+   [
+    "Écologistes",
+    15
+   ],
+   [
+    "Indépendants",
+    15
+   ],
+   [
+    "Non inscrits (déduit du total de 348)",
+    2
+   ]
+  ],
+  "votes": [
+   {
+    "date": "1er oct.",
+    "objet": "Élection du président du Sénat",
+    "resultat": "Gérard Larcher (LR) réélu au 1er tour : 203 voix sur 302 exprimées. Patrick Kanner (PS) 60, Cécile Cukierman (PCF) 22, Mélanie Vogel (Écologiste) 17.",
+    "importance": "Le président du Sénat est le 2e personnage de l'État : il assure l'intérim en cas de vacance de la présidence de la République. Sixième élection de Larcher, en poste jusqu'en 2029.",
+    "debat": [
+     "Larcher veut être « le président de tous les sénateurs et sénatrices » et alerte sur la dette.",
+     "La gauche a présenté trois candidats séparés, sans espoir face à la majorité de droite et du centre."
+    ],
+    "refs": [
+     1
+    ]
+   },
+   {
+    "date": "5 oct.",
+    "objet": "Rapporteure générale du budget (vote interne LR)",
+    "resultat": "Christine Lavarde élue avec 79 voix contre 38 pour Stéphane Sautarel. Première femme à ce poste.",
+    "importance": "Le rapporteur général pilote l'examen du budget au Sénat, dont celui du budget 2027 en novembre.",
+    "debat": [
+     "Elle succède à Jean-François Husson, arrivé au terme des six ans autorisés par son groupe."
+    ],
+    "refs": [
+     2
+    ]
+   },
+   {
+    "date": "5 oct.",
+    "objet": "Présidence de la commission des finances (vote interne PS)",
+    "resultat": "Thierry Cozic l'emporte de justesse : 32 voix contre 29 pour Florence Blatrix Contat.",
+    "importance": "Ce poste revient à l'opposition : il donne accès aux informations fiscales et contrôle l'exécution du budget.",
+    "debat": [],
+    "refs": [
+     2
+    ]
+   },
+   {
+    "date": "5 oct.",
+    "objet": "Vice-présidences (votes internes LR)",
+    "resultat": "Roger Karoutchi, 1er vice-président (76 voix) ; Laurence Garnier vice-présidente (65 voix contre 52).",
+    "importance": "Les vice-présidents dirigent les séances et siègent au bureau du Sénat.",
+    "debat": [],
+    "refs": [
+     2
+    ]
+   }
+  ],
+  "a_venir": [
+   {
+    "date": "27 oct.",
+    "objet": "Loi « casseurs-payeurs » (1re lecture)",
+    "contenu": "Faire payer aux manifestants restés dans un attroupement après sommation le coût des dégradations, jusqu'à 10 000 €, y compris sur certaines allocations.",
+    "pour": "Sébastien Lecornu : « il n'est plus acceptable que la collectivité supporte le coût des destructions commises par quelques-uns ».",
+    "contre": "Des juristes y voient une atteinte indirecte à la liberté de manifester et prévoient une saisine du Conseil constitutionnel ; Olivier Cahn redoute « un affichage politique ».",
+    "refs": [
+     3
+    ]
+   },
+   {
+    "date": "Nov.",
+    "objet": "Budget 2027",
+    "contenu": "Examen du projet de loi de finances après l'Assemblée, sous la houlette de Christine Lavarde.",
+    "pour": "",
+    "contre": "",
+    "refs": [
+     2
+    ]
+   }
+  ],
+  "sources": [
+   [
+    "Public Sénat, 1er oct. : Larcher réélu",
+    "https://www.publicsenat.fr/actualites/politique/gerard-larcher-reelu-a-la-presidence-du-senat-pour-la-sixieme-fois"
+   ],
+   [
+    "Public Sénat, 5 oct. : Lavarde rapporteure générale",
+    "https://www.publicsenat.fr/actualites/politique/info-public-senat-christine-lavarde-designee-rapporteure-generale-du-budget-par-le-groupe-lr-du-senat"
+   ],
+   [
+    "Public Sénat : la loi « casseurs-payeurs »",
+    "https://www.publicsenat.fr/actualites/politique/nouvelle-loi-casseurs-payeurs-un-effet-dannonce-ou-un-nouveau-regime-juridique-de-responsabilite-civile"
+   ],
+   [
+    "Public Sénat : nouvelle composition des groupes",
+    "https://www.publicsenat.fr/actualites/parlementaire/senatoriales-2027-le-groupe-union-centriste-et-independants-devient-le-deuxieme-groupe-du-senat-devant-les-socialistes"
+   ]
+  ]
+ },
+ "github": {
+  "date_releve": "2026-10-06",
+  "rubriques": [
+   {
+    "titre": "FPGA et matériel",
+    "depots": [
+     [
+      "logisim-evolution/logisim-evolution",
+      7710,
+      "Java",
+      "2026-10-05",
+      "Outil de conception et de simulation de logique numérique."
+     ],
+     [
+      "open-sdr/openwifi",
+      4830,
+      "C",
+      "2026-09-21",
+      "Bande de base Wi-Fi IEEE 802.11 libre sur FPGA, avec pilote."
+     ],
+     [
+      "enjoy-digital/litex",
+      4147,
+      "Python",
+      "2026-09-30",
+      "Construire ses SoC sur FPGA facilement."
+     ],
+     [
+      "SpinalHDL/VexRiscv",
+      3281,
+      "Assembly",
+      "2026-09-27",
+      "Processeur RISC-V 32 bits pensé pour FPGA."
+     ],
+     [
+      "stnolting/neorv32",
+      2284,
+      "VHDL",
+      "2026-10-04",
+      "Microcontrôleur RISC-V 32 bits complet en VHDL."
+     ]
+    ]
+   },
+   {
+    "titre": "Robotique",
+    "depots": [
+     [
+      "commaai/openpilot",
+      63835,
+      "Python",
+      "2026-10-06",
+      "Système d'aide à la conduite pour plus de 300 modèles de voitures."
+     ],
+     [
+      "AtsushiSakai/PythonRobotics",
+      30634,
+      "Python",
+      "2026-10-06",
+      "Algorithmes de robotique en Python, avec explications."
+     ],
+     [
+      "earthtojake/text-to-cad",
+      17729,
+      "Python",
+      "2026-10-06",
+      "Donner à un agent IA des capacités de CAO."
+     ],
+     [
+      "TianxingChen/Embodied-AI-Guide",
+      16312,
+      "—",
+      "2026-10-02",
+      "Guide technique de l'IA incarnée et de la robotique."
+     ]
+    ]
+   },
+   {
+    "titre": "Embarqué",
+    "depots": [
+     [
+      "micropython/micropython",
+      22108,
+      "C",
+      "2026-10-03",
+      "Python pour microcontrôleurs."
+     ],
+     [
+      "zephyrproject-rtos/zephyr",
+      16701,
+      "C",
+      "2026-10-06",
+      "Système temps réel (RTOS) multi-architecture."
+     ],
+     [
+      "m3y54m/Embedded-Engineering-Roadmap",
+      13389,
+      "—",
+      "2026-10-04",
+      "Feuille de route pour devenir ingénieur embarqué."
+     ],
+     [
+      "nasa/fprime",
+      11811,
+      "C++",
+      "2026-10-05",
+      "Cadre logiciel de vol de la NASA pour systèmes embarqués."
+     ]
+    ]
+   },
+   {
+    "titre": "Nouveaux du mois",
+    "depots": [
+     [
+      "openai/NavierStokesAndEuler",
+      1291,
+      "Lean",
+      "2026-09-08",
+      "Preuves formelles en Lean sur les équations de Navier-Stokes et d'Euler."
+     ],
+     [
+      "EverettFish/holo-card-studio",
+      1197,
+      "Python",
+      "2026-09-09",
+      "Transforme une description en cartes Blender et pages Three.js."
+     ]
+    ]
+   }
+  ],
+  "source": [
+   "API de recherche GitHub (étoiles, dernier push depuis le 6 septembre)",
+   "https://docs.github.com/rest/search/search#search-repositories"
+  ]
+ },
+ "ville": {
+  "nom": "Cergy",
+  "actus": [
+   {
+    "titre": "L'Axe majeur fête ses 40 ans",
+    "texte": "Samedi 10 octobre, de 10 h à 18 h : spectacles, course d'escaliers « 12 Col'Run », visites de la tour Karavan, croisières commentées, village des sciences de l'université. La plupart des activités sont gratuites.",
+    "source": [
+     "13 Comme Une",
+     "https://13commeune.fr/evenements/40-ans-de-laxe-majeur/"
+    ]
+   },
+   {
+    "titre": "Projet de parcs d'attractions : concertation publique",
+    "texte": "Trois réunions de 19 h à 21 h : le 19 octobre (gymnase de l'Axe majeur), le 20 (Visages du Monde), le 21 (centre de loisirs du Bois de Cergy). Préinscription en ligne. Restitution le 23 novembre.",
+    "source": [
+     "Ville de Cergy",
+     "https://www.cergy.fr/actualites/projet-de-parcs/"
+    ]
+   },
+   {
+    "titre": "Journée du commerce de proximité",
+    "texte": "Samedi 10 octobre, la ville met en avant ses commerçants de quartier.",
+    "source": [
+     "Ville de Cergy",
+     "https://www.cergy.fr/actualites/journee-nationale-du-commerce-de-proximite/"
+    ]
+   },
+   {
+    "titre": "Le maire en direct",
+    "texte": "Jeudi 8 octobre, 18 h 30 : échange en direct sur Facebook avec le maire.",
+    "source": [
+     "Agenda de Cergy",
+     "https://www.cergy.fr/actualites-agenda/agenda/"
+    ]
+   }
+  ],
+  "activites": [
+   [
+    "Ven. 9 oct., 20 h",
+    "CAR/MEN",
+    "Spectacle, Visages du Monde (place du Nautilus)."
+   ],
+   [
+    "Ven. 9 oct.",
+    "Hockey : Jokers de Cergy-Pontoise – Anglet",
+    "Match de championnat à l'Aren'Ice."
+   ],
+   [
+    "Sam. 10 oct., 10 h-18 h",
+    "40 ans de l'Axe majeur",
+    "Fête géante sur l'œuvre de Dani Karavan."
+   ],
+   [
+    "Sam. 10 oct., 20 h 30",
+    "Concert Solann + Persephone",
+    "Salle de l'Allée des Petits Pains."
+   ],
+   [
+    "Dim. 11 oct., 10 h-12 h 30",
+    "Balade géologique",
+    "Départ place des Colonnes Hubert-Renaud."
+   ],
+   [
+    "Jusqu'au 31 oct.",
+    "Marin d'Eau Douce à Port-Cergy",
+    "Bateaux électriques sans permis sur l'Oise."
+   ],
+   [
+    "Jusqu'au 28 oct.",
+    "Exposition « Carte blanche à Gérard Bru »",
+    "Exposition à Cergy-Pontoise."
+   ],
+   [
+    "Jusqu'au 30 déc.",
+    "Chefs-d'œuvre du Louvre",
+    "Exposition « Le Louvre chez vous », place du Nautilus."
+   ],
+   [
+    "Mar. 13 oct., 8 h 45",
+    "Petit-déjeuner étudiant",
+    "Rue aux Herbes."
+   ],
+   [
+    "Sam. 24 oct., 10 h-18 h",
+    "Gratiféria",
+    "Marché gratuit : on donne, on prend."
+   ]
+  ],
+  "alentours": [
+   [
+    "Auvers-sur-Oise (15 min)",
+    "Le village de Van Gogh : église, tombe du peintre, auberge Ravoux."
+   ],
+   [
+    "Pontoise (10 min)",
+    "Vieille ville, cathédrale Saint-Maclou, musée Camille-Pissarro."
+   ],
+   [
+    "Île de loisirs de Cergy-Pontoise",
+    "Étangs, téléski nautique, accrobranche, parcours de course."
+   ],
+   [
+    "Parc naturel du Vexin français",
+    "Randonnées et villages à l'ouest de l'agglomération."
+   ]
+  ],
+  "sources": [
+   [
+    "Agenda de la ville de Cergy",
+    "https://www.cergy.fr/actualites-agenda/agenda/"
+   ],
+   [
+    "13 Comme Une, agenda de Cergy-Pontoise",
+    "https://13commeune.fr/recherche/evenements/"
+   ],
+   [
+    "Val d'Oise Tourisme",
+    "https://www.valdoise-tourisme.com/agenda-sortir-en-val-doise/"
+   ]
+  ]
+ },
+ "offres": [
+  {
+   "doc_id": "optiver-fpga-engineer-intern-austin-tx",
+   "entreprise": "Optiver",
+   "poste": "FPGA Engineer Intern",
+   "pays": "États-Unis",
+   "ville": "Austin, TX",
+   "domaine": "FPGA / hardware",
+   "duree_semaines": 10,
+   "duree_a_verifier": true,
+   "salaire_mensuel_usd": 34600,
+   "salaire_texte": "80 000 $ pour l'été (base + prime)",
+   "lien": "https://www.optiver.com/join-us/jobs/8641352002/?gh_jid=8641352002",
+   "source": "Optiver (offre FPGA été 2027) + SimplifyJobs",
+   "date_ajout": "2026-10-06",
+   "statut": "nouveau"
+  },
+  {
+   "doc_id": "susquehanna-international-group-trading-system-engineering-intern-ardmore-pa",
+   "entreprise": "Susquehanna International Group",
+   "poste": "Trading System Engineering Intern",
+   "pays": "États-Unis",
+   "ville": "Ardmore, PA",
+   "domaine": "Logiciel",
+   "duree_semaines": 10,
+   "duree_a_verifier": true,
+   "salaire_mensuel_usd": 26000,
+   "salaire_texte": "150 $/h",
+   "lien": "https://careers-sig.icims.com/jobs/10837/job?mobile=true&needsRedirect=false",
+   "source": "levels.fyi + SimplifyJobs",
+   "date_ajout": "2026-10-06",
+   "statut": "nouveau"
+  },
+  {
+   "doc_id": "susquehanna-international-group-quantitative-strategy-developer-intern-ardmore-pa",
+   "entreprise": "Susquehanna International Group",
+   "poste": "Quantitative Strategy Developer Intern",
+   "pays": "États-Unis",
+   "ville": "Ardmore, PA",
+   "domaine": "Logiciel",
+   "duree_semaines": 10,
+   "duree_a_verifier": true,
+   "salaire_mensuel_usd": 26000,
+   "salaire_texte": "150 $/h",
+   "lien": "https://careers-sig.icims.com/jobs/10838/job?mobile=true&needsRedirect=false",
+   "source": "levels.fyi + SimplifyJobs",
+   "date_ajout": "2026-10-06",
+   "statut": "nouveau"
+  },
+  {
+   "doc_id": "optiver-software-engineer-intern-chicago-il",
+   "entreprise": "Optiver",
+   "poste": "Software Engineer Intern",
+   "pays": "États-Unis",
+   "ville": "Chicago, IL",
+   "domaine": "Logiciel",
+   "duree_semaines": 10,
+   "duree_a_verifier": true,
+   "salaire_mensuel_usd": 26000,
+   "salaire_texte": "150 $/h",
+   "lien": "https://www.optiver.com/join-us/jobs/8604760002/?gh_jid=8604760002",
+   "source": "levels.fyi + SimplifyJobs",
+   "date_ajout": "2026-10-06",
+   "statut": "nouveau"
+  },
+  {
+   "doc_id": "susquehanna-international-group-trading-system-engineer-intern-united-states",
+   "entreprise": "Susquehanna International Group",
+   "poste": "Trading System Engineer Intern",
+   "pays": "États-Unis",
+   "ville": "United States",
+   "domaine": "Logiciel",
+   "duree_semaines": 10,
+   "duree_a_verifier": true,
+   "salaire_mensuel_usd": 26000,
+   "salaire_texte": "150 $/h",
+   "lien": "https://careers-sig.icims.com/jobs/11169/job?mobile=true&needsRedirect=false",
+   "source": "levels.fyi + SimplifyJobs",
+   "date_ajout": "2026-10-06",
+   "statut": "nouveau"
+  },
+  {
+   "doc_id": "susquehanna-international-group-fpga-engineer-intern-bala-cynwyd-pa",
+   "entreprise": "Susquehanna International Group",
+   "poste": "FPGA Engineer Intern",
+   "pays": "États-Unis",
+   "ville": "Bala Cynwyd, PA",
+   "domaine": "FPGA / hardware",
+   "duree_semaines": 10,
+   "duree_a_verifier": true,
+   "salaire_mensuel_usd": 26000,
+   "salaire_texte": "150 $/h",
+   "lien": "https://careers-sig.icims.com/jobs/11446/job?mobile=true&needsRedirect=false",
+   "source": "levels.fyi + SimplifyJobs",
+   "date_ajout": "2026-10-06",
+   "statut": "nouveau"
+  },
+  {
+   "doc_id": "imc-trading-software-engineer-intern-chicago-il",
+   "entreprise": "IMC Trading",
+   "poste": "Software Engineer Intern",
+   "pays": "États-Unis",
+   "ville": "Chicago, IL",
+   "domaine": "Logiciel",
+   "duree_semaines": 10,
+   "duree_a_verifier": true,
+   "salaire_mensuel_usd": 25000,
+   "salaire_texte": "≈ 5 800 $/semaine",
+   "lien": "https://job-boards.eu.greenhouse.io/imc/jobs/4823924101",
+   "source": "Young and Calculated + SimplifyJobs",
+   "date_ajout": "2026-10-06",
+   "statut": "nouveau"
+  },
+  {
+   "doc_id": "imc-trading-hardware-engineer-intern-chicago-il",
+   "entreprise": "IMC Trading",
+   "poste": "Hardware Engineer Intern",
+   "pays": "États-Unis",
+   "ville": "Chicago, IL",
+   "domaine": "FPGA / hardware",
+   "duree_semaines": 10,
+   "duree_a_verifier": true,
+   "salaire_mensuel_usd": 25000,
+   "salaire_texte": "≈ 5 800 $/semaine",
+   "lien": "https://job-boards.eu.greenhouse.io/imc/jobs/4823945101",
+   "source": "Young and Calculated + SimplifyJobs",
+   "date_ajout": "2026-10-06",
+   "statut": "nouveau"
+  },
+  {
+   "doc_id": "five-rings-capital-software-developer-intern-software-developer-nyc",
+   "entreprise": "Five Rings Capital",
+   "poste": "Software Developer Intern - Software Developer",
+   "pays": "États-Unis",
+   "ville": "NYC",
+   "domaine": "Logiciel",
+   "duree_semaines": 10,
+   "duree_a_verifier": true,
+   "salaire_mensuel_usd": 24917,
+   "salaire_texte": "143,75 $/h",
+   "lien": "https://job-boards.greenhouse.io/fiveringsllc/jobs/5349707008",
+   "source": "levels.fyi + SimplifyJobs",
+   "date_ajout": "2026-10-06",
+   "statut": "nouveau"
+  },
+  {
+   "doc_id": "virtu-financial-software-engineer-intern-software-engineer-austin-tx",
+   "entreprise": "Virtu Financial",
+   "poste": "Software Engineer Intern - Software Engineer",
+   "pays": "États-Unis",
+   "ville": "Austin, TX (+1)",
+   "domaine": "Logiciel",
+   "duree_semaines": 10,
+   "duree_a_verifier": true,
+   "salaire_mensuel_usd": 21667,
+   "salaire_texte": "125 $/h",
+   "lien": "https://job-boards.greenhouse.io/virtu/jobs/8624410002",
+   "source": "levels.fyi + SimplifyJobs",
+   "date_ajout": "2026-10-06",
+   "statut": "nouveau"
+  },
+  {
+   "doc_id": "virtu-financial-hardware-engineer-intern-fpga-austin-tx",
+   "entreprise": "Virtu Financial",
+   "poste": "Hardware Engineer Intern - FPGA",
+   "pays": "États-Unis",
+   "ville": "Austin, TX",
+   "domaine": "FPGA / hardware",
+   "duree_semaines": 10,
+   "duree_a_verifier": true,
+   "salaire_mensuel_usd": 21667,
+   "salaire_texte": "125 $/h",
+   "lien": "https://job-boards.greenhouse.io/virtu/jobs/8657286002",
+   "source": "levels.fyi + SimplifyJobs",
+   "date_ajout": "2026-10-06",
+   "statut": "nouveau"
+  },
+  {
+   "doc_id": "tower-research-capital-quantitative-developer-intern-chicago-il",
+   "entreprise": "Tower Research Capital",
+   "poste": "Quantitative Developer Intern",
+   "pays": "États-Unis",
+   "ville": "Chicago, IL (+1)",
+   "domaine": "Logiciel",
+   "duree_semaines": 10,
+   "duree_a_verifier": true,
+   "salaire_mensuel_usd": 19500,
+   "salaire_texte": "112,50 $/h",
+   "lien": "https://www.tower-research.com/open-positions/?gh_jid=8044334",
+   "source": "levels.fyi + SimplifyJobs",
+   "date_ajout": "2026-10-06",
+   "statut": "nouveau"
+  },
+  {
+   "doc_id": "two-sigma-software-engineering-intern-summer-2027-nyc",
+   "entreprise": "Two Sigma",
+   "poste": "Software Engineering Intern - Summer 2027",
+   "pays": "États-Unis",
+   "ville": "NYC",
+   "domaine": "Logiciel",
+   "duree_semaines": 12,
+   "duree_a_verifier": true,
+   "salaire_mensuel_usd": 18200,
+   "salaire_texte": "105 $/h",
+   "lien": "https://twosigma.avature.net/careers/JobDetail/14016",
+   "source": "levels.fyi + SimplifyJobs",
+   "date_ajout": "2026-10-06",
+   "statut": "nouveau"
+  },
+  {
+   "doc_id": "two-sigma-hardware-engineering-intern-nyc",
+   "entreprise": "Two Sigma",
+   "poste": "Hardware Engineering Intern",
+   "pays": "États-Unis",
+   "ville": "NYC",
+   "domaine": "FPGA / hardware",
+   "duree_semaines": 12,
+   "duree_a_verifier": true,
+   "salaire_mensuel_usd": 18200,
+   "salaire_texte": "105 $/h",
+   "lien": "https://twosigma.avature.net/careers/JobDetail/14289",
+   "source": "levels.fyi + SimplifyJobs",
+   "date_ajout": "2026-10-06",
+   "statut": "nouveau"
+  },
+  {
+   "doc_id": "chicago-trading-company-software-engineering-intern-chicago-il",
+   "entreprise": "Chicago Trading Company",
+   "poste": "Software Engineering Intern",
+   "pays": "États-Unis",
+   "ville": "Chicago, IL",
+   "domaine": "Logiciel",
+   "duree_semaines": 10,
+   "duree_a_verifier": true,
+   "salaire_mensuel_usd": 15600,
+   "salaire_texte": "90 $/h",
+   "lien": "https://job-boards.greenhouse.io/ctccampusboard/jobs/4708230005",
+   "source": "levels.fyi + SimplifyJobs",
+   "date_ajout": "2026-10-06",
+   "statut": "nouveau"
+  },
+  {
+   "doc_id": "chicago-trading-company-software-engineer-intern-chicago-il",
+   "entreprise": "Chicago Trading Company",
+   "poste": "Software Engineer Intern",
+   "pays": "États-Unis",
+   "ville": "Chicago, IL",
+   "domaine": "Logiciel",
+   "duree_semaines": 10,
+   "duree_a_verifier": true,
+   "salaire_mensuel_usd": 15600,
+   "salaire_texte": "90 $/h",
+   "lien": "https://job-boards.greenhouse.io/chicagotradingcampus/jobs/4716932005",
+   "source": "levels.fyi + SimplifyJobs",
+   "date_ajout": "2026-10-06",
+   "statut": "nouveau"
+  },
+  {
+   "doc_id": "akuna-capital-software-engineer-intern-c-chicago-il",
+   "entreprise": "Akuna Capital",
+   "poste": "Software Engineer Intern - C++",
+   "pays": "États-Unis",
+   "ville": "Chicago, IL",
+   "domaine": "Logiciel",
+   "duree_semaines": 10,
+   "duree_a_verifier": true,
+   "salaire_mensuel_usd": 12567,
+   "salaire_texte": "72,50 $/h",
+   "lien": "https://www.akunacapital.com/careers/job/8018847/?gh_jid=8018847",
+   "source": "levels.fyi + SimplifyJobs",
+   "date_ajout": "2026-10-06",
+   "statut": "nouveau"
+  },
+  {
+   "doc_id": "akuna-capital-quantitative-development-strategy-intern-chicago-il",
+   "entreprise": "Akuna Capital",
+   "poste": "Quantitative Development & Strategy Intern",
+   "pays": "États-Unis",
+   "ville": "Chicago, IL",
+   "domaine": "Logiciel",
+   "duree_semaines": 10,
+   "duree_a_verifier": true,
+   "salaire_mensuel_usd": 12567,
+   "salaire_texte": "72,50 $/h",
+   "lien": "https://www.akunacapital.com/careers/job/8021481/?gh_jid=8021481",
+   "source": "levels.fyi + SimplifyJobs",
+   "date_ajout": "2026-10-06",
+   "statut": "nouveau"
+  },
+  {
+   "doc_id": "akuna-capital-software-engineer-intern-full-stack-web-chicago-il",
+   "entreprise": "Akuna Capital",
+   "poste": "Software Engineer Intern - Full Stack Web",
+   "pays": "États-Unis",
+   "ville": "Chicago, IL",
+   "domaine": "Logiciel",
+   "duree_semaines": 10,
+   "duree_a_verifier": true,
+   "salaire_mensuel_usd": 12567,
+   "salaire_texte": "72,50 $/h",
+   "lien": "https://www.akunacapital.com/careers/job/8018893/?gh_jid=8018893",
+   "source": "levels.fyi + SimplifyJobs",
+   "date_ajout": "2026-10-06",
+   "statut": "nouveau"
+  },
+  {
+   "doc_id": "akuna-capital-software-engineer-intern-python-chicago-il",
+   "entreprise": "Akuna Capital",
+   "poste": "Software Engineer Intern - Python",
+   "pays": "États-Unis",
+   "ville": "Chicago, IL",
+   "domaine": "Logiciel",
+   "duree_semaines": 10,
+   "duree_a_verifier": true,
+   "salaire_mensuel_usd": 12567,
+   "salaire_texte": "72,50 $/h",
+   "lien": "https://www.akunacapital.com/careers/job/8018853/?gh_jid=8018853",
+   "source": "levels.fyi + SimplifyJobs",
+   "date_ajout": "2026-10-06",
+   "statut": "nouveau"
+  },
+  {
+   "doc_id": "akuna-capital-hardware-engineer-intern-chicago-il",
+   "entreprise": "Akuna Capital",
+   "poste": "Hardware Engineer Intern",
+   "pays": "États-Unis",
+   "ville": "Chicago, IL",
+   "domaine": "FPGA / hardware",
+   "duree_semaines": 10,
+   "duree_a_verifier": true,
+   "salaire_mensuel_usd": 12567,
+   "salaire_texte": "72,50 $/h",
+   "lien": "https://www.akunacapital.com/careers/job/8018880/?gh_jid=8018880",
+   "source": "levels.fyi + SimplifyJobs",
+   "date_ajout": "2026-10-06",
+   "statut": "nouveau"
+  },
+  {
+   "doc_id": "akuna-capital-software-engineer-intern-c-net-desktop-chicago-il",
+   "entreprise": "Akuna Capital",
+   "poste": "Software Engineer Intern - C# .NET Desktop",
+   "pays": "États-Unis",
+   "ville": "Chicago, IL",
+   "domaine": "Logiciel",
+   "duree_semaines": 10,
+   "duree_a_verifier": true,
+   "salaire_mensuel_usd": 12567,
+   "salaire_texte": "72,50 $/h",
+   "lien": "https://www.akunacapital.com/careers/job/8018886/?gh_jid=8018886",
+   "source": "levels.fyi + SimplifyJobs",
+   "date_ajout": "2026-10-06",
+   "statut": "nouveau"
+  },
+  {
+   "doc_id": "nvidia-software-engineer-intern-santa-clara-ca",
+   "entreprise": "NVIDIA",
+   "poste": "Software Engineer Intern",
+   "pays": "États-Unis",
+   "ville": "Santa Clara, CA",
+   "domaine": "Logiciel",
+   "duree_semaines": 12,
+   "duree_a_verifier": true,
+   "salaire_mensuel_usd": 12307,
+   "salaire_texte": "71 $/h",
+   "lien": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Ignite-Internships--Software-Engineering_JR2026958",
+   "source": "levels.fyi + SimplifyJobs",
+   "date_ajout": "2026-10-06",
+   "statut": "nouveau"
+  },
+  {
+   "doc_id": "waymo-quantitative-software-engineer-intern-sf",
+   "entreprise": "Waymo",
+   "poste": "Quantitative Software Engineer Intern",
+   "pays": "États-Unis",
+   "ville": "SF (+1)",
+   "domaine": "Logiciel",
+   "duree_semaines": 12,
+   "duree_a_verifier": true,
+   "salaire_mensuel_usd": 12133,
+   "salaire_texte": "70 $/h",
+   "lien": "https://careers.withwaymo.com/jobs?gh_jid=8197554",
+   "source": "levels.fyi + SimplifyJobs",
+   "date_ajout": "2026-10-06",
+   "statut": "nouveau"
+  },
+  {
+   "doc_id": "waymo-software-engineer-intern-simulation-evaluation-ml-model-mountain-view-ca",
+   "entreprise": "Waymo",
+   "poste": "Software Engineer Intern - Simulation Evaluation ML Model",
+   "pays": "États-Unis",
+   "ville": "Mountain View, CA",
+   "domaine": "Logiciel",
+   "duree_semaines": 12,
+   "duree_a_verifier": true,
+   "salaire_mensuel_usd": 12133,
+   "salaire_texte": "70 $/h",
+   "lien": "https://careers.withwaymo.com/jobs?gh_jid=8221795",
+   "source": "levels.fyi + SimplifyJobs",
+   "date_ajout": "2026-10-06",
+   "statut": "nouveau"
+  },
+  {
+   "doc_id": "waymo-embedded-intern-software-engineer-mountain-view-ca",
+   "entreprise": "Waymo",
+   "poste": "Embedded Intern - Software Engineer",
+   "pays": "États-Unis",
+   "ville": "Mountain View, CA",
+   "domaine": "Robotique / embarqué",
+   "duree_semaines": 12,
+   "duree_a_verifier": true,
+   "salaire_mensuel_usd": 12133,
+   "salaire_texte": "70 $/h",
+   "lien": "https://careers.withwaymo.com/jobs?gh_jid=8221198",
+   "source": "levels.fyi + SimplifyJobs",
+   "date_ajout": "2026-10-06",
+   "statut": "nouveau"
+  },
+  {
+   "doc_id": "waymo-systems-engineer-intern-autonomous-vehicle-networks-diagnostics-mountain-view-ca",
+   "entreprise": "Waymo",
+   "poste": "Systems Engineer Intern - Autonomous Vehicle Networks & Diagnostics",
+   "pays": "États-Unis",
+   "ville": "Mountain View, CA",
+   "domaine": "Robotique / embarqué",
+   "duree_semaines": 12,
+   "duree_a_verifier": true,
+   "salaire_mensuel_usd": 12133,
+   "salaire_texte": "70 $/h",
+   "lien": "https://careers.withwaymo.com/jobs?gh_jid=8231711",
+   "source": "levels.fyi + SimplifyJobs",
+   "date_ajout": "2026-10-06",
+   "statut": "nouveau"
+  },
+  {
+   "doc_id": "waymo-software-engineer-intern-driver-refinement-foundations-mountain-view-ca",
+   "entreprise": "Waymo",
+   "poste": "Software Engineer Intern - Driver Refinement Foundations",
+   "pays": "États-Unis",
+   "ville": "Mountain View, CA",
+   "domaine": "Logiciel",
+   "duree_semaines": 12,
+   "duree_a_verifier": true,
+   "salaire_mensuel_usd": 12133,
+   "salaire_texte": "70 $/h",
+   "lien": "https://careers.withwaymo.com/jobs?gh_jid=8224900",
+   "source": "levels.fyi + SimplifyJobs",
+   "date_ajout": "2026-10-06",
+   "statut": "nouveau"
+  },
+  {
+   "doc_id": "google-silicon-engineering-intern-madison-wi",
+   "entreprise": "Google",
+   "poste": "Silicon Engineering Intern",
+   "pays": "États-Unis",
+   "ville": "Madison, WI (+2)",
+   "domaine": "FPGA / hardware",
+   "duree_semaines": 12,
+   "duree_a_verifier": true,
+   "salaire_mensuel_usd": 11750,
+   "salaire_texte": "67,79 $/h",
+   "lien": "https://www.google.com/about/careers/applications/jobs/results/136529930677560006",
+   "source": "levels.fyi + SimplifyJobs",
+   "date_ajout": "2026-10-06",
+   "statut": "nouveau"
+  },
+  {
+   "doc_id": "google-silicon-engineering-intern-bs-ms-multiple-teams-madison-wi",
+   "entreprise": "Google",
+   "poste": "Silicon Engineering Intern - BS/MS - Multiple Teams",
+   "pays": "États-Unis",
+   "ville": "Madison, WI (+1)",
+   "domaine": "FPGA / hardware",
+   "duree_semaines": 12,
+   "duree_a_verifier": true,
+   "salaire_mensuel_usd": 11750,
+   "salaire_texte": "67,79 $/h",
+   "lien": "https://www.google.com/about/careers/applications/jobs/results/88570332985598662",
+   "source": "levels.fyi + SimplifyJobs",
+   "date_ajout": "2026-10-06",
+   "statut": "nouveau"
+  },
+  {
+   "doc_id": "google-hardware-engineer-intern-palo-alto-ca",
+   "entreprise": "Google",
+   "poste": "Hardware Engineer Intern",
+   "pays": "États-Unis",
+   "ville": "Palo Alto, CA (+30)",
+   "domaine": "FPGA / hardware",
+   "duree_semaines": 12,
+   "duree_a_verifier": true,
+   "salaire_mensuel_usd": 11750,
+   "salaire_texte": "67,79 $/h",
+   "lien": "https://www.google.com/about/careers/applications/jobs/results/122803627516404422",
+   "source": "levels.fyi + SimplifyJobs",
+   "date_ajout": "2026-10-06",
+   "statut": "nouveau"
+  },
+  {
+   "doc_id": "nvidia-hardware-engineering-intern-santa-clara-ca",
+   "entreprise": "NVIDIA",
+   "poste": "Hardware Engineering Intern",
+   "pays": "États-Unis",
+   "ville": "Santa Clara, CA",
+   "domaine": "FPGA / hardware",
+   "duree_semaines": 12,
+   "duree_a_verifier": true,
+   "salaire_mensuel_usd": 11613,
+   "salaire_texte": "67 $/h (master) + logement",
+   "lien": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Hardware-Engineering_JR2023508-1",
+   "source": "levels.fyi + SimplifyJobs",
+   "date_ajout": "2026-10-06",
+   "statut": "nouveau"
+  },
+  {
+   "doc_id": "nvidia-hardware-physical-design-vlsi-intern-santa-clara-ca",
+   "entreprise": "NVIDIA",
+   "poste": "Hardware Physical Design / VLSI Intern",
+   "pays": "États-Unis",
+   "ville": "Santa Clara, CA",
+   "domaine": "FPGA / hardware",
+   "duree_semaines": 12,
+   "duree_a_verifier": true,
+   "salaire_mensuel_usd": 11613,
+   "salaire_texte": "67 $/h (master) + logement",
+   "lien": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Hardware-Physical-Design---VLSI_JR2023501",
+   "source": "levels.fyi + SimplifyJobs",
+   "date_ajout": "2026-10-06",
+   "statut": "nouveau"
+  },
+  {
+   "doc_id": "nvidia-hardware-verification-intern-santa-clara-ca",
+   "entreprise": "NVIDIA",
+   "poste": "Hardware Verification Intern",
+   "pays": "États-Unis",
+   "ville": "Santa Clara, CA",
+   "domaine": "FPGA / hardware",
+   "duree_semaines": 12,
+   "duree_a_verifier": true,
+   "salaire_mensuel_usd": 11613,
+   "salaire_texte": "67 $/h (master) + logement",
+   "lien": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Hardware-Verification_JR2023500",
+   "source": "levels.fyi + SimplifyJobs",
+   "date_ajout": "2026-10-06",
+   "statut": "nouveau"
+  },
+  {
+   "doc_id": "nvidia-hardware-design-for-test-intern-dft-santa-clara-ca",
+   "entreprise": "NVIDIA",
+   "poste": "Hardware Design for Test Intern - DFT",
+   "pays": "États-Unis",
+   "ville": "Santa Clara, CA",
+   "domaine": "FPGA / hardware",
+   "duree_semaines": 12,
+   "duree_a_verifier": true,
+   "salaire_mensuel_usd": 11613,
+   "salaire_texte": "67 $/h (master) + logement",
+   "lien": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Hardware-Design-for-Test--DFT-_JR2023487-1",
+   "source": "levels.fyi + SimplifyJobs",
+   "date_ajout": "2026-10-06",
+   "statut": "nouveau"
+  },
+  {
+   "doc_id": "verkada-embedded-software-engineer-intern-san-mateo-ca",
+   "entreprise": "Verkada",
+   "poste": "Embedded Software Engineer Intern",
+   "pays": "États-Unis",
+   "ville": "San Mateo, CA",
+   "domaine": "Robotique / embarqué",
+   "duree_semaines": 12,
+   "duree_a_verifier": true,
+   "salaire_mensuel_usd": 11267,
+   "salaire_texte": "65 $/h",
+   "lien": "https://job-boards.greenhouse.io/verkada/jobs/5211595007",
+   "source": "levels.fyi + SimplifyJobs",
+   "date_ajout": "2026-10-06",
+   "statut": "nouveau"
+  },
+  {
+   "doc_id": "verkada-mobile-software-engineer-intern-san-mateo-ca",
+   "entreprise": "Verkada",
+   "poste": "Mobile Software Engineer Intern",
+   "pays": "États-Unis",
+   "ville": "San Mateo, CA",
+   "domaine": "Logiciel",
+   "duree_semaines": 12,
+   "duree_a_verifier": true,
+   "salaire_mensuel_usd": 11267,
+   "salaire_texte": "65 $/h",
+   "lien": "https://job-boards.greenhouse.io/verkada/jobs/5219131007",
+   "source": "levels.fyi + SimplifyJobs",
+   "date_ajout": "2026-10-06",
+   "statut": "nouveau"
+  },
+  {
+   "doc_id": "verkada-frontend-software-engineer-intern-san-mateo-ca",
+   "entreprise": "Verkada",
+   "poste": "Frontend Software Engineer Intern",
+   "pays": "États-Unis",
+   "ville": "San Mateo, CA",
+   "domaine": "Logiciel",
+   "duree_semaines": 12,
+   "duree_a_verifier": true,
+   "salaire_mensuel_usd": 11267,
+   "salaire_texte": "65 $/h",
+   "lien": "https://job-boards.greenhouse.io/verkada/jobs/5210942007",
+   "source": "levels.fyi + SimplifyJobs",
+   "date_ajout": "2026-10-06",
+   "statut": "nouveau"
+  },
+  {
+   "doc_id": "verkada-security-software-engineer-intern-san-mateo-ca",
+   "entreprise": "Verkada",
+   "poste": "Security Software Engineer Intern",
+   "pays": "États-Unis",
+   "ville": "San Mateo, CA",
+   "domaine": "Logiciel",
+   "duree_semaines": 12,
+   "duree_a_verifier": true,
+   "salaire_mensuel_usd": 11267,
+   "salaire_texte": "65 $/h",
+   "lien": "https://job-boards.greenhouse.io/verkada/jobs/5213881007",
+   "source": "levels.fyi + SimplifyJobs",
+   "date_ajout": "2026-10-06",
+   "statut": "nouveau"
+  },
+  {
+   "doc_id": "verkada-backend-software-engineer-intern-san-mateo-ca",
+   "entreprise": "Verkada",
+   "poste": "Backend Software Engineer Intern",
+   "pays": "États-Unis",
+   "ville": "San Mateo, CA",
+   "domaine": "Logiciel",
+   "duree_semaines": 12,
+   "duree_a_verifier": true,
+   "salaire_mensuel_usd": 11267,
+   "salaire_texte": "65 $/h",
+   "lien": "https://job-boards.greenhouse.io/verkada/jobs/5210813007",
+   "source": "levels.fyi + SimplifyJobs",
+   "date_ajout": "2026-10-06",
+   "statut": "nouveau"
+  },
+  {
+   "doc_id": "marvell-firmware-engineer-intern-santa-clara-ca",
+   "entreprise": "Marvell",
+   "poste": "Firmware Engineer Intern",
+   "pays": "États-Unis",
+   "ville": "Santa Clara, CA",
+   "domaine": "Robotique / embarqué",
+   "duree_semaines": 12,
+   "duree_a_verifier": true,
+   "salaire_mensuel_usd": 10920,
+   "salaire_texte": "63 $/h",
+   "lien": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Firmware-Engineer-Intern--MS---Summer-2027_2604513",
+   "source": "levels.fyi + SimplifyJobs",
+   "date_ajout": "2026-10-06",
+   "statut": "nouveau"
+  },
+  {
+   "doc_id": "marvell-design-verification-intern-ms-morrisville-nc",
+   "entreprise": "Marvell",
+   "poste": "Design Verification Intern - MS",
+   "pays": "États-Unis",
+   "ville": "Morrisville, NC (+4)",
+   "domaine": "FPGA / hardware",
+   "duree_semaines": 12,
+   "duree_a_verifier": true,
+   "salaire_mensuel_usd": 10920,
+   "salaire_texte": "63 $/h",
+   "lien": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Design-Verification-Intern--MS---Summer-2027_2604506-1",
+   "source": "levels.fyi + SimplifyJobs",
+   "date_ajout": "2026-10-06",
+   "statut": "nouveau"
+  },
+  {
+   "doc_id": "marvell-design-verification-intern-bs-summer-2027-morrisville-nc",
+   "entreprise": "Marvell",
+   "poste": "Design Verification Intern - BS - Summer 2027",
+   "pays": "États-Unis",
+   "ville": "Morrisville, NC (+4)",
+   "domaine": "FPGA / hardware",
+   "duree_semaines": 12,
+   "duree_a_verifier": true,
+   "salaire_mensuel_usd": 10920,
+   "salaire_texte": "63 $/h",
+   "lien": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Design-Verification-Intern--BS---Summer-2027_2604505",
+   "source": "levels.fyi + SimplifyJobs",
+   "date_ajout": "2026-10-06",
+   "statut": "nouveau"
+  },
+  {
+   "doc_id": "marvell-electrical-validation-intern-bs-santa-clara-ca",
+   "entreprise": "Marvell",
+   "poste": "Electrical Validation Intern - BS",
+   "pays": "États-Unis",
+   "ville": "Santa Clara, CA",
+   "domaine": "FPGA / hardware",
+   "duree_semaines": 12,
+   "duree_a_verifier": true,
+   "salaire_mensuel_usd": 10920,
+   "salaire_texte": "63 $/h",
+   "lien": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Electrical-Validation-Intern--BS---Summer-2027_2603795-1",
+   "source": "levels.fyi + SimplifyJobs",
+   "date_ajout": "2026-10-06",
+   "statut": "nouveau"
+  },
+  {
+   "doc_id": "marvell-firmware-engineer-intern-ms-summer-2027-santa-clara-ca",
+   "entreprise": "Marvell",
+   "poste": "Firmware Engineer Intern - MS - Summer 2027",
+   "pays": "États-Unis",
+   "ville": "Santa Clara, CA",
+   "domaine": "Robotique / embarqué",
+   "duree_semaines": 12,
+   "duree_a_verifier": true,
+   "salaire_mensuel_usd": 10920,
+   "salaire_texte": "63 $/h",
+   "lien": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Firmware-Engineer-Intern--MS---Summer-2027_2604513-1",
+   "source": "levels.fyi + SimplifyJobs",
+   "date_ajout": "2026-10-06",
+   "statut": "nouveau"
+  },
+  {
+   "doc_id": "amazon-software-development-engineer-intern-robotics-seattle-wa",
+   "entreprise": "Amazon",
+   "poste": "Software Development Engineer Intern - Robotics",
+   "pays": "États-Unis",
+   "ville": "Seattle, WA (+6)",
+   "domaine": "Robotique / embarqué",
+   "duree_semaines": 12,
+   "duree_a_verifier": true,
+   "salaire_mensuel_usd": 10513,
+   "salaire_texte": "60,65 $/h",
+   "lien": "https://amazon.jobs/en/jobs/10529525/software-development-engineer-intern-robotics-2027",
+   "source": "levels.fyi + SimplifyJobs",
+   "date_ajout": "2026-10-06",
+   "statut": "nouveau"
+  },
+  {
+   "doc_id": "amazon-software-development-engineer-intern-summer-seattle-wa",
+   "entreprise": "Amazon",
+   "poste": "Software Development Engineer Intern - Summer",
+   "pays": "États-Unis",
+   "ville": "Seattle, WA (+1)",
+   "domaine": "Logiciel",
+   "duree_semaines": 12,
+   "duree_a_verifier": true,
+   "salaire_mensuel_usd": 10513,
+   "salaire_texte": "60,65 $/h",
+   "lien": "https://amazon.jobs/en/jobs/10552937/software-development-engineer-internship-summer-2027-usa",
+   "source": "levels.fyi + SimplifyJobs",
+   "date_ajout": "2026-10-06",
+   "statut": "nouveau"
+  },
+  {
+   "doc_id": "amazon-software-engineer-intern-seattle-wa",
+   "entreprise": "Amazon",
+   "poste": "Software Engineer Intern",
+   "pays": "États-Unis",
+   "ville": "Seattle, WA (+3)",
+   "domaine": "Logiciel",
+   "duree_semaines": 12,
+   "duree_a_verifier": true,
+   "salaire_mensuel_usd": 10513,
+   "salaire_texte": "60,65 $/h",
+   "lien": "https://amazon.jobs/en/jobs/10559746/software-development-engineer-intern-summer-2027-usa-amazon-dedicated-cloud-adc",
+   "source": "levels.fyi + SimplifyJobs",
+   "date_ajout": "2026-10-06",
+   "statut": "nouveau"
+  },
+  {
+   "doc_id": "tesla-software-engineer-intern-vehicle-software-summer-2027-palo-alto-ca",
+   "entreprise": "Tesla",
+   "poste": "Software Engineer Intern - Vehicle Software - Summer 2027",
+   "pays": "États-Unis",
+   "ville": "Palo Alto, CA",
+   "domaine": "Robotique / embarqué",
+   "duree_semaines": 12,
+   "duree_a_verifier": true,
+   "salaire_mensuel_usd": 10208,
+   "salaire_texte": "58,89 $/h",
+   "lien": "https://www.tesla.com/careers/search/job/281097",
+   "source": "levels.fyi + SimplifyJobs",
+   "date_ajout": "2026-10-06",
+   "statut": "nouveau"
+  },
+  {
+   "doc_id": "tesla-embedded-software-engineer-intern-optimus-palo-alto-ca",
+   "entreprise": "Tesla",
+   "poste": "Embedded Software Engineer Intern - Optimus",
+   "pays": "États-Unis",
+   "ville": "Palo Alto, CA",
+   "domaine": "Robotique / embarqué",
+   "duree_semaines": 12,
+   "duree_a_verifier": true,
+   "salaire_mensuel_usd": 10208,
+   "salaire_texte": "58,89 $/h",
+   "lien": "https://www.tesla.com/careers/search/job/282340",
+   "source": "levels.fyi + SimplifyJobs",
+   "date_ajout": "2026-10-06",
+   "statut": "nouveau"
+  }
+ ],
+ "pdf": "pdf/Seven-News-2026-10-06.pdf",
+ "json": "api/editions/2026-10-06.json"
+}

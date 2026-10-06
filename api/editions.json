@@ -1,0 +1,26 @@
+{
+ "editions": [
+  {
+   "date": "2026-10-06",
+   "numero": 1,
+   "titres": [
+    "Lycées bloqués : la jeunesse descend dans la rue",
+    "Budget 2027 : 43 milliards d'effort et une dette record",
+    "Brésil : Flávio Bolsonaro devance Lula",
+    "Climat : des dégâts déjà « verrouillés »",
+    "Nobel de physique : le chasseur de neutrinos"
+   ],
+   "themes": [
+    "Société",
+    "Économie",
+    "International",
+    "Écologie",
+    "Sciences"
+   ],
+   "nb_offres": 50,
+   "json": "api/editions/2026-10-06.json",
+   "pdf": "pdf/Seven-News-2026-10-06.pdf"
+  }
+ ],
+ "mise_a_jour": "2026-10-06T15:16:41+02:00"
+}

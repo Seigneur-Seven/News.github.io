@@ -1,0 +1,92 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=PT+Sans+Narrow:wght@400;700&family=PT+Serif:ital,wght@0,400;0,700;1,400&family=UnifrakturMaguntia&display=swap">
+<link rel="stylesheet" href="assets/style.css">
+<title>API de Seven News</title>
+</head>
+<body>
+<div class="page">
+<header class="manchette">
+  <div class="bandeau"><span id="bandeau-numero">Seven News</span><span id="bandeau-date">Paris</span><span id="bandeau-pdf">Prix : 0 franc</span></div>
+  <div class="titre-zone">
+    <div class="oreille g">« Les faits d'abord,<br>l'opinion ensuite. »</div>
+    <h1><a href="./" style="color:inherit;text-decoration:none">Seven News</a></h1>
+    <div class="oreille d">Tirage spécial<br>pour M. Simon</div>
+  </div>
+  <div class="sommaire" id="sommaire">Culture · Stages · Mots · Tech · GitHub · Information · Sénat · Cergy</div>
+</header>
+
+<nav class="nav" aria-label="Navigation"><a href="./">Dernière édition</a><a href="archives.html">Archives</a><a href="api.html" aria-current="page">API</a></nav>
+<main>
+<section class="rubrique">
+  <div class="bande"><h2>L'API du journal</h2><small>fichiers JSON publics, sans clé</small></div>
+  <div class="une">
+    <div>
+      <p class="chapeau">Chaque édition est publiée en JSON à côté du site. Aucune clé, aucun compte : un simple <code>GET</code> suffit, depuis un script, une appli ou un autre site (CORS ouvert par GitHub Pages).</p>
+      <p class="etiq encre">Adresse de base</p>
+      <pre><code id="base">https://seigneur-seven.github.io/News.github.io/</code></pre>
+      <p style="font-size:.92rem">Si le dépôt est renommé <code>Seigneur-Seven.github.io</code>, l'adresse devient <code>https://seigneur-seven.github.io/</code>.</p>
+      <p class="etiq encre">Les points d'accès</p>
+      <div class="doc-defile"><table class="doc">
+        <tr><th>Chemin</th><th>Contenu</th></tr>
+        <tr><td><code>api/latest.json</code></td><td>La dernière édition : date, numéro, liens vers le JSON complet et le PDF.</td></tr>
+        <tr><td><code>api/editions.json</code></td><td>L'index de toutes les éditions, de la plus récente à la plus ancienne, avec les titres d'information.</td></tr>
+        <tr><td><code>api/editions/AAAA-MM-JJ.json</code></td><td>Une édition complète : culture, offres, mots, tech, GitHub, 5 sujets d'information, Sénat, ville.</td></tr>
+        <tr><td><code>pdf/Seven-News-AAAA-MM-JJ.pdf</code></td><td>Le journal mis en page, prêt à imprimer.</td></tr>
+      </table></div>
+      <p class="etiq encre" style="margin-top:14px">Exemples</p>
+      <pre><code>curl -s https://seigneur-seven.github.io/News.github.io/api/latest.json</code></pre>
+      <pre><code>import requests
+base = "https://seigneur-seven.github.io/News.github.io/"
+derniere = requests.get(base + "api/latest.json", timeout=30).json()
+edition = requests.get(base + derniere["json"], timeout=30).json()
+for sujet in edition["infos"]:
+    print(sujet["theme"], "-", sujet["titre"])</code></pre>
+      <pre><code>const base = "https://seigneur-seven.github.io/News.github.io/";
+const derniere = await (await fetch(base + "api/latest.json")).json();
+const edition = await (await fetch(base + derniere.json)).json();
+console.log(edition.offres.slice(0, 5));</code></pre>
+    </div>
+    <div class="pile">
+      <div class="boite trame"><p class="etiq encre">Format de <code>latest.json</code></p>
+<pre><code>{
+  "date": "2026-10-06",
+  "numero": 1,
+  "json": "api/editions/2026-10-06.json",
+  "pdf": "pdf/Seven-News-2026-10-06.pdf",
+  "mise_a_jour": "2026-10-06T20:00:00+02:00"
+}</code></pre></div>
+      <div class="boite"><p class="etiq encre">Champs d'une édition</p>
+        <ul class="puces" style="font-size:.92rem">
+          <li><code>culture</code> : citation et blocs de culture générale</li>
+          <li><code>offres</code> : stages triés par salaire (<code>salaire_mensuel_usd</code>, <code>lien</code>…)</li>
+          <li><code>mots</code> : mots du jour (<code>registre</code> : soutenu ou argot)</li>
+          <li><code>tech</code>, <code>github</code> : actualité tech et dépôts à suivre</li>
+          <li><code>infos[]</code> : faits numérotés, chiffres, chronologie, <code>gauche</code> / <code>droite</code>, <code>incertain</code>, <code>verification</code>, <code>sources</code></li>
+          <li><code>senat</code> : votes, composition, textes à venir</li>
+          <li><code>ville</code> : actualité et sorties à Cergy et alentour</li>
+        </ul></div>
+      <div class="boite incertain"><p class="etiq ocre">Bon à savoir</p>
+        <ul class="puces" style="font-size:.92rem"><li>Mise à jour une fois par jour, vers 20 h (heure de Paris).</li><li>Fichiers statiques : pas de filtre côté serveur, filtre côté client.</li><li>Les numéros entre crochets d'un fait renvoient à la position dans <code>sources</code> (à partir de 1).</li></ul></div>
+    </div>
+  </div>
+</section>
+</main>
+<footer class="pied"><span>Seven News · API publique</span><span><a href="./">Dernière édition</a> · <a href="archives.html">Archives</a></span></footer>
+</div>
+<script>
+  // adapte les exemples à l'adresse réelle du site quand il est servi depuis GitHub Pages
+  (function () {
+    if (!/github\.io$/.test(location.hostname)) return;
+    var base = location.origin + location.pathname.replace(/api\.html$/, "");
+    document.querySelectorAll("pre code").forEach(function (c) { c.textContent = c.textContent.split("https://seigneur-seven.github.io/News.github.io/").join(base); });
+    document.getElementById("base").textContent = base;
+  })();
+</script>
+</body>
+</html>
